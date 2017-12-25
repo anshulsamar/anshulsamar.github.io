@@ -7,7 +7,7 @@ mydate: Dec 2017
 ---
 
 I’ve been playing this game with friends, siblings, and relatives and
-it’s been a lot of fun - hope to hear from those who try how it went!
+it’s been a lot of fun.
 
 Time: 30 minutes.
 2 players
