@@ -13,15 +13,15 @@ Time: 30 minutes.
 2 players
 
 Choose one person to be A and another to be B. The Marriage Game
-proceeds in 3 phases: “Searching,” “Proposal,” and “Engagement.”
+proceeds in 3 phases: “Searching,” “Proposal,” and “Selection.”
 
 **Searching**: If you are Person A, come up with 5 attributes that
 describe your ideal partner. Examples: personality traits, education,
 career, income, family life, culture, religion, race, hobbies,
 physical features, etc. For example, if you wish to marry a “funny
-lawyer who loves travel, writing, and art” that counts as 5
-attributes: funny, lawyer, likes travel, likes writing, and likes
-art. Make sure these are the 5 attributes that matter most to you. In
+lawyer who loves travel, writing, and hates the Red Sox” that counts as 5
+attributes: funny, lawyer, likes travel, likes writing, and hates the
+Red Sox. Make sure these are the 5 attributes that matter most to you. In
 other words, if we gathered all the people in the world that satisfy
 these 5 attributes and randomly picked one person, would you be
 comfortable taking whoever is chosen as your partner for life? When
@@ -32,7 +32,7 @@ proposal to Person A.  “Person A, I have a proposal here from someone
 who satisfies all the qualities mentioned, but is also _____.” You can
 fill in the blank with any attribute you wish. For example, “Person A,
 here is a proposal for a funny lawyer who likes travel, writing, and
-art but is Hindu and is dead set on never having kids.” Here, your job
+hates the Red Sox but is Hindu and is dead set on never having kids.” Here, your job
 is to come up with proposals that really push Person A to face
 whatever preferences they have for partners, as well as their own
 biases and concepts surrounding marriage, family, and gender
@@ -44,15 +44,15 @@ income of partner A, with a PhD, without a college degree, someone who
 doesn’t get along with your parents, another who loves you but hates
 <a href="https://i.pinimg.com/736x/fd/89/f9/fd89f9b863bbcb77534d9b53faf9fa33--puppy-dog-eyes-dog-nose.jpg">dogs</a>, etc.
 
-**Engagement**: If you are Person A, consider Person B’s proposal. True to
+**Selection**: If you are Person A, consider Person B’s proposal. True to
 their word, they found someone who matches your five attributes - are
 you willing to get engaged? If not, what attribute do you wish to add
 and what attribute will you let go? For example, you may decide to
 remove “likes art” with “open to having a family.” Share this with
 Person B. Go back to Step 2 (now using the new attributes). Do this
-for a total of 7 proposals.
+for a total of 5 proposals.
 
-If Person B was able to change 3 out of the 5 attributes on Person A’s
+If Person B was able to change 2 out of the 5 attributes on Person A’s
 original list - Person B wins! Otherwise, Person A! Enjoy!
 
 ---
@@ -92,6 +92,13 @@ common language, are of similar age, and are sexually compatible. You
 can assume that you “like” them enough to be friends with them - if
 you want to marry someone who you are head over heels in love with or
 deeply physically attracted to, then that needs to be an attribute.
+
+**Who should I play with?**
+
+Play with friends! It's also fun to play with people from other
+generations (like parents or grandparents) to see what they value. You
+can also ask them to pick attributes for the type of person they would
+hope that you marry.  
 
 **5 variables? Picking variables which strongly correlate with others?
 Attributes with lots of variance? This sounds like an optimization
