@@ -63,21 +63,9 @@ original list - Person B wins! Otherwise, Person A! Enjoy!
 
 Attributes should be within reason. Try to avoid vague catch all
 attributes that get multiple attributes for free (i.e. “a good
-person”). Person A could, however, choose an attribute like “goes to
+person” or "makes for an amazing spouse"). Person A could, however, choose an attribute like “goes to
 the gym.” This may be correlated with other attributes like “healthy,”
 “non-smoking,” or “well built.”
-
-What to do if an argument ensues? Say Person A chooses “makes for an
-all-round amazing spouse” as their attribute. Person B thinks this is
-too vague. In fact, in every proposal Person B comes up with, Person A
-uses the attribute to claim that because all proposals must have that
-one attribute, B’s proposals are invalid.
-
-In such a case, use the following test: for every vague attribute,
-Person A should name 5 friends who have this attribute (in our
-example, 5 friends who would make for all-round amazing spouses). If
-they can’t, the attribute must be replaced. If they can, Person A
-really ought to stop the game and introduce Person B to one of them.
 
 During the “Proposal” phase, Person B should not pick obscure
 attributes. They should only pick attributes that can plausibly appear
