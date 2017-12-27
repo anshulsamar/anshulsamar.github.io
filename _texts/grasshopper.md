@@ -18,7 +18,7 @@ Master: I answered your question.
 Grasshopper: No, now I have two questions which I’m confused
 about. That’s one more than where I started.  
 Master: Are you having this question or is this question having you?  
-Grasshopper: Master, please answer my question. 
+Grasshopper: Master, please answer my question.   
 Master: Are you experiencing anger?  
 Grasshopper: No, I’m not angry.   
 Master: Observe the anger.  
