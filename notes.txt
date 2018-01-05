@@ -1,0 +1,4 @@
+rvm gemset use ed
+jekyll serve
+
+https://minicomp.github.io/ed/documentation/#jekyll
