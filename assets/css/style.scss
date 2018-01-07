@@ -26,6 +26,12 @@ $text-color: #454545;
 $heading-color: #404040;
 $link-color: #841212;
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
 
 @import "ed";
 @import "syntax";

@@ -1,10 +1,12 @@
 ---
 layout: narrative
-title: Indian Weddings (for white friends)
+title: Indian Weddings
 author: Anshul Samar
 date: 2016-11-01
 mydate: Nov 2016
 ---
+
+Indian Weddings (for white friends)  
 
 If you are in your mid 20s, it’s likely that your friends are getting
 married. Some of those friends are brown. Some of those brown friends

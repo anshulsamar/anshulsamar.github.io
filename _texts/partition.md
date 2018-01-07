@@ -10,7 +10,9 @@ mydate: Dec 2017
 graphs. The system operates in a decentralized fashion,
 reorganizing vertices and edges across server nodes, without the need
 of a master. We operate in an asychronous setting, but assume messages are
-eventually delivered. Built by Naoki Eto and Anshul Samar.
+eventually delivered. Consensus is achieved through Paxos.  
+
+Built by Naoki Eto and Anshul Samar.
 
 ---
 
