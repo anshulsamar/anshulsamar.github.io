@@ -12,7 +12,8 @@ type="text/javascript"></script>
 
 In the following post, I detail a learning algorithm I wrote in
 Prof. Andrew Ng's group. This is based on variational
-auto-encoding (VAE). See my previous post to learn more about VAE. 
+auto-encoding (VAE). See my previous <a
+href="https://anshulsamar.github.io/texts/vae/"> post </a> to learn more about VAE. 
 
 Say we wish do do machine translation in an <a
 href="https://arxiv.org/pdf/1409.3215.pdf"> encoder-decoder</a>
