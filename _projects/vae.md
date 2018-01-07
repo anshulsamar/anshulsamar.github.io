@@ -313,21 +313,18 @@ variable chosen. As an image changes, one neuron (one variable) should
 be equivariant and change with different data. Others should be
 invariant.
 
-They use rmsprop, momentum 0.1, weight decay/meta learning rate, etc.
-
 Can we rationalize this with respect to general autoencoding?
 
 Here is one interpretation: in this setting, rather than learn one
 autoencoder, we really wish to learn \\(n\\) autoencoders, one to
 capture each axes of variation in a paritcular mini-batch. To make
-this interpretable (i.e. we should semantically understand each axes
-of variation), we split our dataset into n distinct transformations. Then, rather than train \\(n\\) separate models we attempt to combine
-them. The issue, however, is that now we can't strictly optimize.
+this interpretable, we split our dataset into n distinct transformations
+(each batch corresponds to only one transformation). Then, rather than train \\(n\\) separate models, we attempt to combine
+them.
 
-How do we ensure that the \\(z_i\\) latent variables across one
-minibatch are the same? We can penalize for variance. For each data
-point and for each \\(z_i \not= z_train\\), we can add a loss term that penalizes the variance of its
-hidden variable with respect to the others in its mini batch.
+We now need to ensure that the \\(z_i\\) latent variables inside one
+batch are the same. We do this by penalizing for variance. For each data
+point and for each \\(z_i \not= z_{train}\\), we can add a loss term that penalizes the variance with respect to the others in its mini batch.
 
 $$
 \begin{align*}
@@ -337,9 +334,8 @@ L &\mathrel{+}= Var[z_i] \\
 \end{align*}
 $$
 
-Note that the negative gradient is in the direction of the mean
-(same, outside of scaling, to step 5 above). 
-
+Note that the negative gradient is in the direction of the mean. This
+is the same as step 5 above. 
 
 **References**
 

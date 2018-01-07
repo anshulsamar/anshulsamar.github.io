@@ -6,7 +6,7 @@ title: "Anshul Samar"
 
 <p>I am currently a student at Stanford University. I did my undergrad
   in Mathematics and am now pursuing a master's in Computer
-  Science. Find my writings and projects below. To receive new post notifications, please submit
+  Science. Find my work below. To receive new post notifications, please submit
   your email
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQUXJWaJaazykFnEu2TChYqIuDz6EgcMTRLn-YuAtWL0PEbA/viewform?usp=sf_link">
   here. </a> Contact
@@ -14,7 +14,10 @@ title: "Anshul Samar"
 </div>
 
 <hr>
-{% assign sorted = (site.texts | sort: 'date') | reverse %}
+Projects
+<br>
+<br>
+{% assign sorted = (site.projects | sort: 'date') | reverse %}
   {% for item in sorted %}
   <p style="text-align:left;">
       <a href="{{ site.baseurl }}{{ item.url }}">
@@ -26,6 +29,22 @@ title: "Anshul Samar"
   </p>
   {% endfor %}
 
+<br>
+Writings
+<br>
+<br>
+{% assign sorted = (site.texts | sort: 'date') | reverse %}
+{% for item in sorted %}
+  <p style="text-align:left;">
+     <a href="{{ site.baseurl }}{{ item.url }}">
+       {{ item.title }}
+     </a>
+     <span style="float:right;">
+       {{ item.mydate }}
+     </span>
+  </p>
+  {% endfor %}
+  
 
 
 

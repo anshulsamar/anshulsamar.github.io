@@ -3,7 +3,7 @@
 
 # Setup
 title:               Anshul Samar
-tagline:             'writings and projects'
+tagline:             'projects and writings'
 description:         ''
 url:                 ''
 baseurl:             ''
@@ -22,6 +22,8 @@ encoding: utf-8
 # Collections for texts
 collections:
   texts:
+    output: true
+  projects:            
     output: true
 
 # Markdown specs
