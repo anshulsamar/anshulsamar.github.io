@@ -3,7 +3,7 @@
 
 # Setup
 title:               Anshul Samar
-tagline:             'projects and writings'
+tagline:             'projects and musings'
 description:         ''
 url:                 ''
 baseurl:             ''
@@ -24,6 +24,8 @@ collections:
   texts:
     output: true
   projects:            
+    output: true
+  technical:                            
     output: true
 
 # Markdown specs

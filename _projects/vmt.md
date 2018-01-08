@@ -138,9 +138,7 @@ We can minimize this loss as well as the complement loss for pair
 $$-D_{KL}(q_{\phi_t}||q_{\phi_s}) + AE(t;\phi,\theta) +
 TR(t \rightarrow s;\phi,\theta) - D_{KL}(q_{\phi_t}||p_\theta)$$
 
-I started working on an encoder-decoder machine translation
+I have started working on an encoder-decoder machine translation
 implementation with SGVB. Please see this <a
 href="https://github.com/anshulsamar/seq">project</a> for more
 details.
-
-Results TBD!

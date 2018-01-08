@@ -30,7 +30,25 @@ Projects
   {% endfor %}
 
 <br>
-Writings
+Technical Writings
+<br>
+<br>
+{% assign sorted = (site.technical | sort: 'date') | reverse %}
+  {% for item in sorted %}
+  <p style="text-align:left;">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+      <span style="float:right;">
+        {{ item.mydate }}
+      </span>
+  </p>
+  {% endfor %}
+
+
+  
+<br>
+Musings
 <br>
 <br>
 {% assign sorted = (site.texts | sort: 'date') | reverse %}

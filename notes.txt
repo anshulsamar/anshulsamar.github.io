@@ -3,3 +3,7 @@ jekyll serve
 
 https://minicomp.github.io/ed/documentation/#jekyll
 thanks to favicon.cc for favicon generation
+
+thanks to
+http://jamesonzimmer.com/simple-pdf-embed-for-jekyll/
+for pdf support
