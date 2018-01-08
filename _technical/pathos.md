@@ -1,6 +1,6 @@
 ---
 layout: pdf
-title: Sentiment Analysis (final paper)
+title: Pathos - Sentiment Analysis (final paper)
 author: Anshul Samar
 date: 2013-12-04
 mydate: Dec 2013
