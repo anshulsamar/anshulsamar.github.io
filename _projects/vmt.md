@@ -141,4 +141,4 @@ TR(t \rightarrow s;\phi,\theta) - D_{KL}(q_{\phi_t}||p_\theta)$$
 I have started working on an encoder-decoder machine translation
 implementation with SGVB. Please see this <a
 href="https://github.com/anshulsamar/seq">project</a> for more
-details.
+details. Thanks to Ziang Xie and Misha Andriluka for mentorship. 
