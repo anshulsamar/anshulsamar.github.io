@@ -11,7 +11,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-
 type="text/javascript"></script>
 
 In the following post, I detail a learning algorithm I wrote in
-Prof. Andrew Ng's group. This is based on variational
+the Stanford Deep Learning Group. This is based on variational
 auto-encoding (VAE). See my previous <a
 href="https://anshulsamar.github.io/texts/vae/"> post </a> to learn more about VAE. 
 
@@ -141,4 +141,6 @@ TR(t \rightarrow s;\phi,\theta) - D_{KL}(q_{\phi_t}||p_\theta)$$
 I have started working on an encoder-decoder machine translation
 implementation with SGVB. Please see this <a
 href="https://github.com/anshulsamar/seq">project</a> for more
-details. Thanks to Ziang Xie and Misha Andriluka for mentorship. 
+details.
+
+Many thanks to Ziang Xie and Misha Andriluka for their mentorship. 
