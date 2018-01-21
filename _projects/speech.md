@@ -6,8 +6,9 @@ date: 2014-08-28
 mydate: Aug 2014
 ---
 
-Summer 2014 I was introduced to deep learning for the first time and
-got to train end to end RNNs for speech recognition.
+The summer after my sophomore year, I was introduced to deep learning for the first time and
+got to train end to end RNNs for speech recognition. This was part of
+my CURIS project in the Andrew Ng Deep Learning Lab. 
 
 Speech recogniton is an important subfeld of machine learning with
 vast applicability to human computer interacton, telephone and audio
