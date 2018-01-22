@@ -40,8 +40,8 @@ banks, context windows for past/future informaton) on Wall Street Journal
 performance
 
 3. Built a confgurable feature pipeline to easily create many diferent
-training sets and an internal neural network experiment manager to
-easily start and view stats on many deep learning experiments. 
+training sets and worked on an internal neural network experiment manager to
+easily conduct many deep learning experiments on cluster computers.
 
 ![Simba]({{ site.baseurl }}{{ "/assets/speech_examples.png"  }}){: .center-image}
 
