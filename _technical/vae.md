@@ -49,15 +49,14 @@ log(P_\theta(z^{(i)})) \\). We would set this equal to zero, take
 derivatives, and determine the \\(\theta\\) that maximize the
 likelihood under our chosen distribution. 
 
-Because, we do not know which hidden variable corresponds to
+Because we do not know which hidden variable corresponds to
 which data point, our log likelihood is \\(\sum_i log (\int
 P_\theta(x|z) P_\theta(z) dz)\\) and this nasty log of sums becomes
 difficult to work with (see mixture of gaussian reference below for an
 example of this). 
 
 One might suggest using the EM algorithm and the posterior
-distribution to iteratively estimate \\(\theta\\). But, to make
-matters worse, what if we wish to use
+distribution to iteratively estimate \\(\theta\\). But what if we wish to use
 likelihoods and posteriors that are intractable (i.e. no closed form
 or too computationally expensive)? As Kingma and Welling
 write, "intractabilities are quite common and appear in cases of
@@ -65,7 +64,7 @@ moderately complicated likelihood functions \\(p_\theta(x|z)\\), e.g. a neural
 network with a nonlinear hidden layer" [1]. For example, in order to determine the marginal likelihood of x, we
 would need to sweep over all possible values for \\(z\\), i.e.: \\(P_\theta(x) = \int P_\theta(z)P_\theta(x\|z)dz \\). If the likelihood is given to us by a
 neural network, this becomes very difficult to determine (as a simple
-exercise, imagine likelihood given by a two sigmoid units connected to
+exercise, look at the likelihood given by two sigmoid units connected to
 each other). The posterior \\(P_\theta(z\|x) =
 \frac{P_\theta(x\|z)P_\theta(z)}{P_\theta(x)}\\) becomes similarly
 difficult to compute. Even if we were to sample, this would take too
@@ -160,15 +159,23 @@ overfit the distribution of the data.
 
 <a name="Reparameterization"></a> **Reparameterization**
 
-How might we tackle maximizing ELBO off the bat? Using the log
-derivative trick [6], we could push the gradient inside and then use Monte
+How might we tackle maximizing ELBO off the bat? Let's determine
+gradients with respect to \\(\theta\\) and \\(\phi\\). 
+
+It's nice to work with expectations - as it allows us to sample and
+then evaluate. How might we find gradients, while still maintaining
+expectations?
+
+As you can see in [8], the gradient w.r.t. \\(\theta\\) can be simply
+done. For \\(\phi\\), we can use the log
+derivative trick [6] and push the gradient inside. We can then use Monte
 Carlo to approximate:
 
 $$
 \begin{align*}
-\nabla_\theta E_{q_\phi(z|x)}[f(z)] &=
+\nabla_\phi E_{q_\phi(z|x)}[f(z)] &=
 E_{q_\phi(z|x)}[f(z)\nabla_\phi log q_\phi(z|x)] \\
-&= \frac{1}{L} \sum f(z) \nabla_{q_\phi(z|x)} log q_\phi(z|x)
+&= \frac{1}{L} \sum f(z) \nabla_phi log q_\phi(z|x)
 \end{align*}
 $$
 
@@ -178,7 +185,8 @@ href="https://people.eecs.berkeley.edu/~jordan/papers/paisley-etal-icml12.pdf">[
 and is impractical for our purposes." If using gradient descent
 methods, for example, high variance can lead to convergence difficulties.
 
-Kingma and Welling propose a reparameterization trick. Here, rather
+Kingma and Welling propose a reparameterization trick (requires some
+conditions on the posterior - see paper). Here, rather
 than sample \\(z \sim q_\phi\\) we set \\(z = g_\phi(x, \epsilon)\\) where
 \\(\epsilon \sim p(\epsilon)\\). For example, say \\(q\\) is \\(N(\mu,
 \sigma^2)\\). Then instead of directly sampling \\(z\\), we set \\(z =
@@ -188,15 +196,15 @@ instead.
 Now:
 
 $$
-\begin{align*}
-\nabla_\theta E_{q_\phi(z|x)}[f(z)] &=
-\int q_\phi(z|x)f(z)dz \\
-&= \int p(\epsilon)f(g_\phi(\epsilon,x)) d\epsilon \\
-\end{align*}
+E_{q_\phi(z|x)}[f(z)] = E_{p(\epsilon)}[f(g_\phi(\epsilon,x))]
 $$
 
 This can be approximated by $$\frac{1}{L} \sum_l f(g_\phi(\epsilon_l,
 x))$$ where \\(\epsilon_l \sim p(\epsilon)\\).
+
+Stefano Ermon's group [8] has a good explanation of this, but now note
+that the gradient with respect to \\(\phi\\) can be pushed into the
+expectation, allowing us to take Monte Carlo estimates.
 
 Reparameterizing this way leads to less variance [8]. See <a
 href="http://nbviewer.jupyter.org/github/gokererdogan/Notebooks/blob/master/Reparameterization%20Trick.ipynb">this
@@ -237,8 +245,8 @@ the number of points we sample, \\(N\\) is the size of the
 dataset, and L is the number of times we sample \\(\epsilon\\) for
 each data sample. Here, we use the monte carlo/reparameterized approximation of ELBO from above.
 
-Note that we can take the gradient here as every part of our ELBO,
-including the reparameterization function, can be differentiated.
+We can take the gradient here as every part of our ELBO,
+including the reparameterization function, can be differentiated. 
 
 Let's now integrate this into a MLP in the gaussian setting. With a
 gaussian prior \\(p_\theta(z) = N(z;0,I)\\) and gaussian posterior, we can get a closed form of the KL
@@ -271,7 +279,7 @@ This can be optimized using the AEVB algorithm and backpropagation.
 Graphics Networks**
 
 In Deep Inverse Convolutional Graphics Networks, we attempt to use an
-encoder-decoder setup based on variational autoencoding, to generate
+encoder-decoder setup based on variational autoencoding to generate
 new images of faces. Our goal is to "disentagle" a representation of a
 face from other independent variables - pose, position, lighting,
 etc. With traditional autoencoders, we do not have full control over a
