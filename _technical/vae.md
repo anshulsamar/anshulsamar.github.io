@@ -166,8 +166,8 @@ It's nice to work with expectations - as it allows us to sample and
 then evaluate. How might we find gradients, while still maintaining
 expectations?
 
-As you can see in [8], the gradient w.r.t. \\(\theta\\) can be simply
-done. For \\(\phi\\), we can use the log
+As you can see in [8], the gradient w.r.t. \\(\theta\\) can be done
+simply. For \\(\phi\\), we can use the log
 derivative trick [6] and push the gradient inside. We can then use Monte
 Carlo to approximate:
 
@@ -179,7 +179,8 @@ E_{q_\phi(z|x)}[f(z)\nabla_\phi log q_\phi(z|x)] \\
 \end{align*}
 $$
 
-The L refers to L samples from \\(q_\phi(z|x)\\). Kingma and Welling write that "this exhibits very high variance (see
+The L refers to L samples from \\(q_\phi(z|x)\\). Kingma and Welling
+write that doing this "this exhibits very high variance (see
 e.g. <a
 href="https://people.eecs.berkeley.edu/~jordan/papers/paisley-etal-icml12.pdf">[BJP12]</a>
 and is impractical for our purposes." If using gradient descent
@@ -202,8 +203,8 @@ $$
 This can be approximated by $$\frac{1}{L} \sum_l f(g_\phi(\epsilon_l,
 x))$$ where \\(\epsilon_l \sim p(\epsilon)\\).
 
-Stefano Ermon's group [8] has a good explanation of this, but now note
-that the gradient with respect to \\(\phi\\) can be pushed into the
+Stefano Ermon's 228 class [8] has a good discussion of this, but note
+how now the gradient with respect to \\(\phi\\) can be pushed into the
 expectation, allowing us to take Monte Carlo estimates.
 
 Reparameterizing this way leads to less variance [8]. See <a
@@ -354,6 +355,7 @@ blogs, and peers, as this was presented in an informal setting, so
 some language may overlap. Thanks
 to Ziang Xie, Jonathan Ho, and Kenneth Jung for helpful conversations.
 
+Written based on the following:
 
 <a href="https://arxiv.org/pdf/1312.6114.pdf">[1] </a>Diederik Kingma and Max Welling. *Auto-Encoding Variational Bayes*. The
 2nd International Conference on Learning Representations (ICLR). 2013.
