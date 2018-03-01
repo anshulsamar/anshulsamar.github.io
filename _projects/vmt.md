@@ -107,7 +107,7 @@ log p(s,t) &= log \int_z
 p_{\theta_S}(s|z)P_{\theta_T}(t|z)P_{\theta}(z)
 \frac{q_{\phi_T}(z|t)}{q_{\phi_S}(z|s)}\frac{q_{\phi_S}(z|t)}{q_{\phi_S}(z|s)}
 \\
-&= E_{q_{\phi_S}(z|s)}[log \frac{q_{\phi_T}(s|z)}{q_{\phi_S}(z|t)} +
+&\geq E_{q_{\phi_S}(z|s)}[log \frac{q_{\phi_T}(s|z)}{q_{\phi_S}(z|t)} +
 log P_{\theta_S}(s|z) + log p_{\theta_T}(t|z) + log
 \frac{P_\theta(z)}{q_{\phi_S}(s|z)}] \\
 &= -D_{KL}(q_{\phi_s}||q_{\phi_t}) + AE(s;\phi,\theta) +
