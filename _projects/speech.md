@@ -34,12 +34,11 @@ for their mentorship and help. Over the summer, I:
 Corpus (~81 hours, news reading) and Switchboard Corpus (~300
 hours, telephone conversatons)
 
-2. Implemented dropout and investgated efect on regularizaton and
-diferent feature sets ((mel flter bank cepstral coefcients, flter
+2. Implemented dropout and investigated effect of different feature sets (mel flter bank cepstral coefcients, filter
 banks, context windows for past/future informaton) on Wall Street Journal
 performance
 
-3. Built a confgurable feature pipeline to easily create many diferent
+3. Built a confgurable feature pipeline to easily create many different
 training sets and worked on an internal neural network experiment manager to
 easily conduct many deep learning experiments on cluster computers.
 
