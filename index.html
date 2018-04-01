@@ -6,15 +6,19 @@ title: "Anshul Samar"
 
 <p>I am currently a student at Stanford University. I did my undergrad
   in Mathematics and am now pursuing a master's in Computer
-  Science. Find my work below. To receive new post notifications, please submit
+  Science. To receive new post notifications, please submit
   your email
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQUXJWaJaazykFnEu2TChYqIuDz6EgcMTRLn-YuAtWL0PEbA/viewform?usp=sf_link">
   here. </a> Contact
   me <a href="mailto:asamar@stanford.edu">here.</a> Thanks for visiting!</p>
+
+<p> April 2018: Last quarter at Stanford! I'll be TA'ing Psych 103: Intergroup
+  Communications and working with Prof. Marshall Burke in SustainLab.</p>
+
 </div>
 
 <hr>
-Projects
+Projects and Technical Writings
 <br>
 <br>
 {% assign sorted = (site.projects | sort: 'date') | reverse %}
@@ -29,24 +33,6 @@ Projects
   </p>
   {% endfor %}
 
-<br>
-Technical Writings
-<br>
-<br>
-{% assign sorted = (site.technical | sort: 'date') | reverse %}
-  {% for item in sorted %}
-  <p style="text-align:left;">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-      <span style="float:right;">
-        {{ item.mydate }}
-      </span>
-  </p>
-  {% endfor %}
-
-
-  
 <br>
 Musings
 <br>
