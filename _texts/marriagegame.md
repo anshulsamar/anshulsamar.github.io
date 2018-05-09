@@ -65,25 +65,21 @@ Attributes should be within reason. Try to avoid vague catch all
 attributes that get multiple attributes for free (i.e. “a good
 person” or "makes for an amazing spouse"). Person A could, however, choose an attribute like “goes to
 the gym.” This may be correlated with other attributes like “healthy,”
-“non-smoking,” or “well built.”
+“non-smoking,” or “muscular.”
 
 During the “Proposal” phase, Person B should not pick obscure
 attributes. They should only pick attributes that can plausibly appear
 in a non trivial portion of the human population. For example, Person
 B should not offer a proposal from a deposed dictator or a <a href="https://i.imgflip.com/1v8pjg.jpg">dog</a>.
 
-**What about age, language, and sexual orientation? What about whether
-or not I “like” them?**
+**What about age and language?**
 
 You can assume that you and your future partner share at least one
-common language, are of similar age, and are sexually compatible. You
-can assume that you “like” them enough to be friends with them - if
-you want to marry someone who you are head over heels in love with or
-deeply physically attracted to, then that needs to be an attribute.
+common language and are of similar age.
 
 **Who should I play with?**
 
-Play with friends! It's also fun to play with people from other
+You can play with friends - it's also fun to play with people from other
 generations (like parents or grandparents) to see what they value. You
 can also ask them to pick attributes for the type of person they would
 hope that you marry.  
@@ -96,16 +92,16 @@ Yeah, I guess it does.
 
 **What about finding true love?**
 
-Feel free to play this game while you are looking for it!
+Feel free to play this game while you are looking for it. 
 
 **This also sounds like arranged marriage.**
 
-In India, when a child comes of age, many families put out matrimonial
-ads listing their qualities and those desired in a partner. Suitors
-send pictures along with small bios. The best proposals then lead to a
+In India, many families put out matrimonial
+ads for adult children listing the qualities and those desired in a
+partner. Potential partners send pictures along with small bios. The best proposals then lead to a
 face to face meeting and eventually, after days, weeks, or months:
 marriage. Regardless of whether you get this sort of “arranged
-marriage” or not, the first part of the process - coming up with
-qualities most important to you - can be a helpful one!
+date” or not, the first part of the process - coming up with
+qualities most important to you - can be helpful. 
 
 
