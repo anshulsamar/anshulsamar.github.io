@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Inverse Graphics Network and VAE
+title: Inverse Graphics Networks and VAE
 author: Anshul Samar
 date: 2018-01-04
 mydate: Jan 2018

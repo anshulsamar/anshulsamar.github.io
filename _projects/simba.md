@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Simba - Tracking Moving Objects
+title: Tracking Moving Objects
 author: Anshul Samar
 date: 2013-08-26
 mydate: Aug 2013

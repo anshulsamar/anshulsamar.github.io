@@ -6,9 +6,6 @@ date: 2017-12-02
 mydate: Dec 2017
 ---
 
-I’ve been playing this game with friends, siblings, and relatives and
-it’s been a lot of fun.
-
 Time: 30 minutes.
 2 players
 
@@ -16,7 +13,7 @@ Choose one person to be A and another to be B. The Marriage Game
 proceeds in 3 phases: “Searching,” “Proposal,” and “Selection.”
 
 **Searching**: If you are Person A, come up with 5 attributes that
-describe your ideal partner. Examples: personality traits, education,
+describe an ideal partner. Examples: personality traits, education,
 career, income, family life, culture, religion, race, hobbies,
 physical features, etc. For example, if you wish to marry a “funny
 lawyer who loves travel, writing, and hates the Red Sox” that counts as 5

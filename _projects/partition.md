@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Decentralized Partitioning
+title: Decentralized Partitioning Using Paxos
 author: Anshul Samar
 date: 2017-12-01
 mydate: Dec 2017
@@ -12,7 +12,7 @@ reorganizing vertices and edges across server nodes, without the need
 of a master. We operate in an asychronous setting, but assume messages are
 eventually delivered. Consensus is achieved through Paxos.  
 
-Built by Naoki Eto and Anshul Samar.
+Built by Anshul Samar and Naoki Eto.
 
 ---
 

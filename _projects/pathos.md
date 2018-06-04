@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Pathos - Sentiment Analysis on News
+title: Sentiment Analysis on Headlines
 author: Anshul Samar
 date: 2013-12-13
 mydate: Dec 2013
