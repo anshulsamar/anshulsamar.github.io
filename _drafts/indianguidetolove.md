@@ -19,7 +19,7 @@ Your grandmother wants you married (you’re 28, but hey, your
  Indian. You know there are like half a billion of them, but still. An
  Indian girl? God damn. Maybe if you’d been dating an ethnically
  ambiguous Mexican girl, everyone would have been happy - but you’re
- not dating an ethnically ambiguous Mexican girl. Your girl is from a
+ not dating an ethnically ambiguous Mexican girl. This girl is from a
  country which used to be India; in fact, the one thing your
  grandmother warned you about, that she swore she would never forgive,
  was you dating a girl from a country which used to be India. I’ll
@@ -46,7 +46,7 @@ forward aloud. You stop complaining about ghee. You blame America. You blame
 India. You blame the British. You tell her you’re not really
 dating. You tell her you were never really ever dating. That you are
 no longer dating. You try it all, but one day she simply sits on your
-bed and says no, no more, and shows you a picture of Kokila Masi’s
+bed and says no, no more, and shows you a picture of Shashi Masi’s
 sister in law’s best friend’s niece.
 
 For a while, you wander the city. You see photos of your ex with
@@ -58,7 +58,7 @@ family, that’s the only sort you’ve seen.
 
 You tell your grandmother you’ll give it a shot. You call a rickshaw
 to the girl’s house. You meet the girl. You meet her parents. You meet
-her uncles and aunts. You make small talk. 
+her uncles and her aunts. You make small talk. 
 
 But back home, you say you aren’t ready. You remind her you are only 28. But your grandmother sits you down and makes it plain: I’m getting
 old, she says.
