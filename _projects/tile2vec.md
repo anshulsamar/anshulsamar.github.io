@@ -84,8 +84,8 @@ m$$
 
 where \\(m\\), the margin, is a hyperparameter of the model. Here,
 \\(f\\) is a deep neural network model. \\(f(a)\\) is the embedding for
-image \\(a\\). For this tutorial, \\(f\\) is a
-mini version of a <a
+image \\(a\\). For this tutorial, \\(f\\) will often be some variant
+of a <a
 href="https://arxiv.org/abs/1512.03385">ResNet</a>. You can see
 different models in our repo's `data/src/` but as of now, most are
 variants of the ResNet architecture. 
@@ -95,7 +95,7 @@ variants of the ResNet architecture.
 For the paper, we trained Tile2Vec on 100k such triplets for 50 epochs using
 a margin of 50, 0.01 l2 regularization, and Adam optimizer with a 1e-3
 learning rate and betas (0.5, 0.999). We used `src/tilenet.py` as the
-model. Here is a paper excerpt on the results:
+model. The output embedding has 512 dimensions. Here is a paper excerpt on the results:
 
 > The previous state-of-the-art result used a transfer learning
   approach in which a CNN is trained to predict nighttime lights (a proxy for poverty) from
@@ -317,16 +317,78 @@ Here are some triplets from the LSMS train set:
 <a name="Run"></a>
 ## **Running Experiments**
 
+To train, use the `run.py` file. Example:
+
+```
+python run.py --model minires_32 --z_dim 32 --exp_name minires_32_500K
+-train --ntrain 500000 -val -test -predict_small --trials 5 -save_models
+```
+
+This will use the minires_64 model with 34 dimensions. It will train
+on 250000 triplets and validate and test on the default sets. It will
+go into test mode to predict LSMS data. To do this, embeddings will be
+created for LSMS images and then used in a ridge regression
+model. This will be done for 5 trials and the average \\(r^2\\) will
+be outputted. Models and loss will be saved every epoch.
+
+There are multiple prediction modes. `-predict_small` uses small crops
+around LSMS locations and samples 10 \\(50 \times 50\\) tiles in the
+image. Embeddings from these are averaged and used in ridge
+regression. `-predict_big` uses large 
+crops, tiles them into a grid of 36 \\(50 \times 50\\)
+tiles. Embeddings from those are averaged and used in
+regression. Either of these modes can also be used with the
+`-quantile` flag which rather than just average embeddings, creates a
+feature vector with various quantiles.
+
+You can also use the `poverty_plot.py` file to create a graph of
+\\(r^2\\) versus consumption expenditure (similar to Fig A of the
+original science <a
+href="http://science.sciencemag.org/content/sci/353/6301/790.full.pdf">paper</a>
+on LSMS data). All other plots are easily seen
+on your TensorBoard. 
+
+Some notes and unfortunate things to look out (these all need to be
+improved and are minor fixes):
+
+1. Deprecated cross validation scipy warning (you'll see the warning when running
+code).
+
+2. Running poverty plot is getting a runtime warning and encountering
+some invalid values. Started looking into this, but wasn't able to
+track it down.
+
+3. `fig_utils.py` is what runs the regression code and cross
+validation. I got these functions from the original predicting
+poverty repo, removing ones and I did not need and making minor
+edits. 
+
+4. Optimization state not being saved
+
+Here are some some results from example experiments (more to
+come). Test and Validation are 50K triplets each.
+
+![Train, Test, Val Loss]({{ site.baseurl }}{{ "/assets/minires_32_100K_loss.png"  }}){:
+ .center-image}
+<p style="text-align: center; font-size:20px;"><sub>A mini version of
+ ResNet that outputs 32 dimensions. Trained on 100K triplets.</sub></p>
+
+![r2]({{ site.baseurl }}{{ "/assets/minires_32_100K_r2.png"  }}){:
+ .center-image}
+<p style="text-align: center; font-size:20px;"><sub>r^2 on LSMS data.</sub></p>
+
+
+
 <a name="Reading"></a>
 ## **Helpful Links**
 
 Check out the Tile2Vec paper <a
 href="https://arxiv.org/pdf/1805.02855.pdf">here</a> and the original
-work done on LSMS prediction <a
+work done on LSMS predictions by the lab <a
 href="http://science.sciencemag.org/content/sci/353/6301/790.full.pdf">
-here </a> and <a
+here </a>(Science Paper) and <a
 href="https://static1.squarespace.com/static/57a8ec72c534a5448c606796/t/57b74438893fc005181274ad/1471628351213/JeanBurkeEtAl2016_SI.pdf">
-here </a>.
+here </a> (Supplementary material). 
 
 <a href="https://www.movable-type.co.uk/scripts/latlong.html"> [1]
 </a> Lat/Lon Calculator
