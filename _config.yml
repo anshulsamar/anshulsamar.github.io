@@ -7,7 +7,7 @@ tagline:             'my blog'
 description:         ''
 url:                 ''
 baseurl:             ''
-
+comments:            true
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown

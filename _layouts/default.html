@@ -13,7 +13,15 @@
     {% endif %}
 
 
-
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+        js.src =
+      'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0';
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
@@ -28,82 +36,30 @@
 
       <div class="container content" id="main">
         {{ content }}
+        
       </div>
     </div>
 
-    <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
-
-    <script>
-
-    // Highlight search Query
-    var url = window.location.href;
-      if (url.lastIndexOf("?q=") > 0) {
-        // get the index of the parameter, add three (to account for length)
-        var stringloc = url.lastIndexOf("?q=") + 3;
-        // get the substring (query) and decode
-        var searchquery = decodeURIComponent(url.substr(stringloc));
-        // regex matches at beginning of line, end of line or word boundary, useful for poetry
-        var regex = new RegExp("(?:^|\\b)(" + searchquery + ")(?:$|\\b)", "gim");
-        // get, add mark and then set content
-        var content = document.getElementById("main").innerHTML;
-        document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
-      }
-
-    // Toggle sidebar  
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
-    <!-- Facebook SDK for JavaScript -->
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '589495744558280',
-      xfbml      : true,
-      version    : 'v2.6'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
 <footer>
 <p style="text-align: center;">  <small> based on
    <a href="https://minicomp.github.io/ed/about/">ed</a> </small> <br><small>&copy;
    2017 Anshul Samar<small></footer>
-            <div class="icons" style="text-align:center;">
-              <a href="https://www.instagram.com/anshulsamar/">
-                <img src="{{site.url}}{{site.baseurl}}/assets/instagram.png"
-                     style="display: inline-block; margin-left: auto;
-                     margin-right: auto; height: 15px;">
-              </a>
-              <a href="https://twitter.com/AnshulSamar">
-                <img src="{{site.url}}{{site.baseurl}}/assets/twitter.png"
-                     style="display: inline-block; margin-left: auto; margin-right: auto; height: 15px">
-              </a>
-              <a href="https://github.com/anshulsamar">
-                <img src="{{site.url}}{{site.baseurl}}/assets/github.png"
-                     style="display: inline-block; margin-left: auto; margin-right: auto; height: 15px">
-              </a>
-            </div>
 
+<div class="icons" style="text-align:center;">
+  <a href="https://www.instagram.com/anshulsamar/">
+    <img src="{{site.url}}{{site.baseurl}}/assets/instagram.png"
+         style="display: inline-block; margin-left: auto;
+                margin-right: auto; height: 15px;">
+  </a>
+  <a href="https://twitter.com/AnshulSamar">
+    <img src="{{site.url}}{{site.baseurl}}/assets/twitter.png"
+         style="display: inline-block; margin-left: auto; margin-right: auto; height: 15px">
+  </a>
+  <a href="https://github.com/anshulsamar">
+    <img src="{{site.url}}{{site.baseurl}}/assets/github.png"
+         style="display: inline-block; margin-left: auto; margin-right: auto; height: 15px">
+  </a>
+</div>
 
-  </body>
+</body>
 </html>
