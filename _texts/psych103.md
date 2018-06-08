@@ -15,7 +15,7 @@ In Pysch 103, a hundred students
 meet Tuesday and Thursday evening to discuss race, gender, income, and sexual orientation. Each unit,
 subgroups sit in the center of the room and are questioned by
 groups surrounding them. Subgroups for race, for example, include the
-Black, White, Native, Latinx, Asian, MENA groups, while groups for
+Black, White, Native, Mixed, Latinx, Asian, MENA groups, while groups for
 income are low, middle, and high. Questions are formed and voted on prior to
 this fishbowl and are posed anonymously to the members of the group
 inside. Students raise their hand and share their experiences. "Would
@@ -36,7 +36,7 @@ the bike racks and head back to their dorms.
 
 Students learn. They have to. The process is built this
 way - exhilarating and sometimes, painful. The students on the outside, sit
-quietly circled around, looking down at the fishbowl of 10 - 15
+quietly circled around, listneing to the fishbowl of 10 - 15
 students. These are students who talk like them, look like 
 them, and act just like them, but whose life stories and experiences 
 are wildly different.
@@ -44,8 +44,8 @@ are wildly different.
 Inside the fishbowl, students are sharing. Some look down at
 the carpet while others speak loudly and out, 
 offering emotions and life stories. There are nods and laughter and
-quiet acknowledgements. At times, the silence is pleading, as if to
-say: "These are the shoes I walk in, I have no other pair but my own."
+quiet acknowledgements. At times, there is silence. It pleads, as if
+to say, "these are the shoes I walk in, I have no other pair but my own."
 
 [//]: # Many look down at the carpet and feet as if to sayis a pleadingone
 
@@ -65,8 +65,7 @@ wrong. The acknowledgement that not everything is ok. The recognition of
 how privileged we are to be able to be here and to say: "I
 understand. What next?" 
 
-Psych 103 ends not with a call to action, but a call to question. A
-call to curiosity. And a call to see consequence, not in headlines or
+Psych 103 ends not with a call to action, but a call to curiosity. And a call to see consequence, not in headlines or
 textbooks, but behind the eyes and in the hands of *real* students. 
 
 My deepest gratitude to all the students in Psych 103 this quarter for
