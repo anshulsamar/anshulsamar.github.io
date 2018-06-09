@@ -28,7 +28,8 @@ also meet weekly to debrief their experiences and have more intimate
 discussions and activities. Every unit consists of mandatory readings and
 reflections. Students go on walks together and are
 required to meet one on one with someone who isn't part of their
-group.
+group. They are asked to say what they believe, 
+regardless of how unpopular that might be. 
 
 There are 4 units, 10 weeks, 20 class meetings, and countless
 conversations. Many continue on until the night as students leave to
@@ -65,7 +66,7 @@ wrong. The acknowledgement that not everything is ok. The recognition of
 how privileged we are to be able to be here and to say: "I
 understand. What next?" 
 
-Psych 103 ends not with a call to action, but a call to curiosity. And a call to see consequence, not in headlines or
+Psych 103 ends not with a call to action, but a call to question. And a call to see consequence, not in headlines or
 textbooks, but behind the eyes and in the hands of *real* students. 
 
 My deepest gratitude to all the students in Psych 103 this quarter for
