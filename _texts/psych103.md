@@ -37,7 +37,7 @@ the bike racks and head back to their dorms.
 
 Students learn. They have to. The process is built this
 way - exhilarating and sometimes, painful. The students on the outside, sit
-quietly circled around, listneing to the fishbowl of 10 - 15
+quietly circled around, listening to the fishbowl of 10 - 15
 students. These are students who talk like them, look like 
 them, and act just like them, but whose life stories and experiences 
 are wildly different.
@@ -45,7 +45,7 @@ are wildly different.
 Inside the fishbowl, students are sharing. Some look down at
 the carpet while others speak loudly and out, 
 offering emotions and life stories. There are nods and laughter and
-quiet acknowledgements. At times, there is silence. It pleads, as if
+acknowledgements. At times, there is only silence. It pleads, as if
 to say, "these are the shoes I walk in, I have no other pair but my own."
 
 [//]: # Many look down at the carpet and feet as if to sayis a pleadingone
@@ -57,7 +57,7 @@ being about two.
 
 It is rather odd looking into our own minds. For most of our lives,
 education has been in one direction. For the first time, we are taking
-thoughts out. Observing at every word, every belief and asking - "Why is
+thoughts out. Observing at every word, every belief and asking, "why is
 this here? Should it still be?" 
 
 Every Tuesday and Thursday, something subtle is being
@@ -72,7 +72,8 @@ textbooks, but behind the eyes and in the hands of *real* students.
 My deepest gratitude to all the students in Psych 103 this quarter for
 an experience I'll never forget. Thanks to our teaching team Dereca,
 Danny, Hazel, and Gabriela; my facilitation instructor,
-Danny; my TA partner, Tracy, and my section and all my fellow TAs. Some pictures below: 
+Danny; my TA partner, Tracy, and my section and all my fellow
+TAs. Some pictures below [TBD]
 
 
 
