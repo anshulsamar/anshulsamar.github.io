@@ -126,9 +126,10 @@ href="http://science.sciencemag.org/content/sci/353/6301/790.full.pdf">
 Learning to Predict Poverty"</a> by Jean, Burke, et al. and their
 <a href="https://static1.squarespace.com/static/57a8ec72c534a5448c606796/t/57b74438893fc005181274ad/1471628351213/JeanBurkeEtAl2016_SI.pdf">supplementary material</a>.
 
-*Note: another run of the transfer learning approach yields an r^2 of
- .44, see predicting poverty repo for more details. While Tile2Vec is still
- better than this, future work that uses nightlights might yield even
+*Note: Further look ahe original state of the art paper both
+ reports a .41 and .46 r2 and it is unclear what the .41 is trained
+ on. Either way, Tile2Vec is still
+ better than this, and future work that uses nightlights might yield even
  better results.*
 
 <a name="SettingUp"></a>
