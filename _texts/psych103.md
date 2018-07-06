@@ -61,7 +61,8 @@ biking while black. There is
 hurt when the gender unit begins with three groups, but discussions
 mostly concern two. There is anger when members of the high income
 group use their parent's low income stories as their own. These
-reactions and others are shared in section, reflection, one on
+reactions and others - ranging from colorism and colonialism to
+arranged marriage and parenting - are shared in section, reflection, one on
 ones, and end of unit debriefs.
 
 If our institutions accepted anger in lieu of privilege, perhaps
