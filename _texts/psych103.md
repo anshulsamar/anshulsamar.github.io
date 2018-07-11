@@ -44,8 +44,9 @@ are wildly different.
 
 Inside the fishbowl, students are sharing. Some look down at
 the carpet while others speak out. There are nods and verbal
-acknowledgements, but also silence as if to say,
-"these are the shoes I walk in, I have no other pair but my own."
+acknowledgements, but also silence. The quietness, while sometimes
+sad, is also proud, as if to say: "these are the shoes I walk
+in, I have no other pair but my own." 
 
 [//]: # If our instuititions accepted anger in lieu of
 [//]: # privelege, perhaps things would be different. 
@@ -55,11 +56,9 @@ plenty to go around. There is surprise when members of the Black group talk abou
 biking while black. There is
 hurt when the gender unit begins with three groups, but discussions
 mostly concern two. There is anger when members of the high income
-group use their parent's low income stories as their own, almost claiming to
-not be different than those around them. These
-emotions and thoughts, on everything from colorism and colonialism to
-arranged marriage and parenting, are shared in section, written
-reflections, and end of unit debriefs.
+group share their views on their wealth. These
+reactions, on everything from colorism and colonialism to
+arranged marriage and parenting, are shared in section and debriefs. 
 
 [//]: # It is hard work - especially for those, on whose backs and stories,
 [//]: # the rest of us grow and learn. But in a country whose president
@@ -70,9 +69,9 @@ reflections, and end of unit debriefs.
 
 If our institutions accepted anger in lieu of privilege, perhaps
 things would be different. But instead, students in Psych 103 lean
-into discomfort. As students, concepts, thoughts, and ideas
-usually flow into our minds. For the first time, we are taking
-them out - observing every word, every belief and asking, “Why
+into discomfort. Usually in school, thoughts and ideas
+flow into our minds. For the first time, we are taking
+them out and asking, “Why
 is this here? Should it still be?”
 
 [//]: #The lack of latter is accompanied
