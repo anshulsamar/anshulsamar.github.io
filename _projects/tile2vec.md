@@ -79,8 +79,8 @@ are geographically close together and an image (tile) that is far away.
 Letting \\((a,n,d)\\) refer to the anchor, neighbor, and distant
 tiles, we learn embeddings by minimizing the following triplet loss:
 
-$$L(a,n,d) = {||f(a) - f(n)||}_2 - {||f(a) - f(d)||}_2 +
-m$$
+$$L(a,n,d) = {[{||f(a) - f(n)||}_2 - {||f(a) - f(d)||}_2 +
+m]}_{+}$$
 
 where \\(m\\), the margin, is a hyperparameter of the model. Here,
 \\(f\\) is a deep neural network model. \\(f(a)\\) is the embedding for

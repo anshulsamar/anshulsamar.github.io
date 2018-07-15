@@ -1,21 +1,37 @@
 ---
 layout: narrative
-title: The Marriage Game
+title: The Partner Game
 author: Anshul Samar
 date: 2017-12-02
 mydate: Dec 2017
 ---
 
+As a South Asian young man, you go from being the loved child to an
+unmarried disgrace literally overnight. Like last year, my
+grandparents were visiting from India, and I
+went to Trader Joes just to get juice. When I got back, my
+grandpa was like - "it's time to get Anshul married."
+
+It was as simple as that. And the worst part was that Trader Joes' was out
+of my favorite juice. 
+
+With the topic of parternships, marriage, and serious relationships
+becoming more frequent among friends, this game was born! The goal
+is to get your friends to think about what they are
+looking for in a partner(s). This is one version of the game, but feel
+free to modify it to be about multiple partnerships, friendships, or
+any other relationship. 
+
 Time: 30 minutes.
 2 players
 
-Choose one person to be A and another to be B. The Marriage Game
+Choose one person to be A and another to be B. The Partner Game
 proceeds in 3 phases: “Searching,” “Proposal,” and “Selection.”
 
 **Searching**: If you are Person A, come up with 5 attributes that
 describe an ideal partner. Examples: personality traits, education,
 career, income, family life, culture, religion, race, hobbies,
-physical features, etc. For example, if you wish to marry a “funny
+physical features, etc. For example, if you wish to be with a “funny
 lawyer who loves travel, writing, and hates the Red Sox” that counts as 5
 attributes: funny, lawyer, likes travel, likes writing, and hates the
 Red Sox. Make sure these are the 5 attributes that matter most to you. In
@@ -24,15 +40,14 @@ these 5 attributes and randomly picked one person, would you be
 comfortable taking whoever is chosen as your partner for life? When
 you settle on your attributes, share them with Person B.
 
-**Proposal**: If you are Person B, your job is to now to offer a marriage
-proposal to Person A.  “Person A, I have a proposal here from someone
+**Proposal**: If you are Person B, your job is to now to offer a proposal to Person A.  “Person A, I have a proposal here from someone
 who satisfies all the qualities mentioned, but is also _____.” You can
 fill in the blank with any attribute you wish. For example, “Person A,
 here is a proposal for a funny lawyer who likes travel, writing, and
 hates the Red Sox but is Hindu and is dead set on never having kids.” Here, your job
 is to come up with proposals that really push Person A to face
 whatever preferences they have for partners, as well as their own
-biases and concepts surrounding marriage, family, and gender
+biases and concepts surrounding marriage/parternships, family, and gender
 roles. Try to get to what matters to them and what they are willing to
 give up. Don’t be afraid to challenge them and their views - consider
 offering proposals from a wide range of potential partners,
@@ -79,7 +94,7 @@ common language and are of similar age.
 You can play with friends - it's also fun to play with people from other
 generations (like parents or grandparents) to see what they value. You
 can also ask them to pick attributes for the type of person they would
-hope that you marry.  
+hope that you marry/partner with.  
 
 **5 variables? Picking variables which strongly correlate with others?
 Attributes with lots of variance? This sounds like an optimization
@@ -91,14 +106,6 @@ Yeah, I guess it does.
 
 Feel free to play this game while you are looking for it. 
 
-**This also sounds like arranged marriage.**
 
-In India, many families put out matrimonial
-ads for adult children listing the qualities and those desired in a
-partner. Potential partners send pictures along with small bios. The best proposals then lead to a
-face to face meeting and eventually, after days, weeks, or months:
-marriage. Regardless of whether you get this sort of “arranged
-date” or not, the first part of the process - coming up with
-qualities most important to you - can be helpful. 
 
 

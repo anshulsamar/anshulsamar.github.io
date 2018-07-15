@@ -16,7 +16,7 @@ In Psych 103, a hundred students
 meet Tuesday and Thursday evening to discuss race, gender, income, and sexual orientation. Each unit,
 subgroups sit in the center of the room and are questioned by
 groups surrounding them. In the race unit, subgroups include the
-Black, White, Native, Mixed, Latinx, Asian, Middle East and North African groups, while groups for
+Native, Black, Latinx, Mixed, Asian, White, and Middle East and North African groups, while groups for
 income are low, middle, and high. Questions are formed and voted on prior to
 this fishbowl and are posed anonymously to the members of the group
 inside. Students are then asked to share their opinions and experiences. "Would
@@ -44,19 +44,25 @@ are wildly different.
 
 Inside the fishbowl, students are sharing. Some look down at
 the carpet while others speak out. There are nods and verbal
-acknowledgements, but also silence. The quietness, while sometimes
-sad, is also proud, as if to say: "these are the shoes I walk
-in, I have no other pair but my own." 
+acknowledgements, but also silence. The quietness is heavy. At times,
+it seems to say: "these are the shoes I walk
+in, I have no other pair but my own."
+
 
 [//]: # If our instuititions accepted anger in lieu of
 [//]: # privelege, perhaps things would be different. 
+[//]: #“If marginalization could somehow be the lack of priveledge
+[//]: #could somehow be compensated by an abundance of anger, our campus 
+[//]: #would be a better place - but sadly, there is no
+[//]: #If an abundance of anger could make up for the shortage of privelege,
+[//]: #perhaps things would be easier
 
 While reactions are not allowed during the fishbowl, there are
 plenty to go around. There is surprise when members of the Black group talk about
 biking while black. There is
 hurt when the gender unit begins with three groups, but discussions
 mostly concern two. There is anger when members of the high income
-group share their views on their wealth. These
+group talk about their understanding of wealth. These
 reactions, on everything from colorism and colonialism to
 arranged marriage and parenting, are shared in section and debriefs. 
 
@@ -70,8 +76,8 @@ arranged marriage and parenting, are shared in section and debriefs.
 If our institutions accepted anger in lieu of privilege, perhaps
 things would be different. But instead, students in Psych 103 lean
 into discomfort. Usually in school, thoughts and ideas
-flow into our minds. For the first time, we are taking
-them out and asking, “Why
+flow inwards. In Psych 103, students take
+them out, asking, “Why
 is this here? Should it still be?”
 
 [//]: #The lack of latter is accompanied
@@ -95,11 +101,9 @@ question - and
 a call to see consequence, not in headlines or 
 textbooks, but behind the eyes of *real* students. 
 
-
-
 --------------------------------------
 
-*My deepest gratitude to all the students in Psych 103 this quarter for
+*My gratitude to all the students in Psych 103 for
 an unforgettable experience. Thanks to our teaching team Dereca,
 Danny, Hazel, and Gabriela; my facilitation instructor,
 Danny; my TA partner, Tracy, my section, and the other
