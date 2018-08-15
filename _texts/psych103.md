@@ -28,15 +28,15 @@ Along with in class fishbowls, small sections of 12 students
 meet weekly to debrief their experiences and have more intimate
 discussions. Every unit consists of mandatory readings and
 reflections. Students go on walks together and are
-required to meet one on one with someone who isn't part of their
+required to meet one on one with someone who identifies with another
 group. 
 
 There are 4 units, 10 weeks, 20 class meetings, and countless
-conversations. Many continue on until the night as students leave to
+conversations. Many continue into the night as students leave to
 the bike racks and head back to their dorms.  
 
-Students learn. They have to. The process is built this
-way - exhilarating and often, painful. The students on the outside sit
+Students learn. A lot. The process is built this
+way - exhilarating and painful. The students on the outside sit
 circled around, listening to the fishbowl of 10 - 15
 students. These are students who talk like them, look like 
 them, and act just like them, but whose life stories and experiences 
@@ -44,8 +44,8 @@ are wildly different.
 
 Inside the fishbowl, students are sharing. Some look down at
 the carpet while others speak out. There are nods and verbal
-acknowledgements, but also silence. The quietness is heavy. At times,
-it seems to say: "these are the shoes I walk
+acknowledgements, but also silence. The quietness is heavy, as if to
+say: "these are the shoes I walk
 in, I have no other pair but my own."
 
 
@@ -103,12 +103,29 @@ textbooks, but behind the eyes of *real* students.
 
 --------------------------------------
 
-*My gratitude to all the students in Psych 103 for
-an unforgettable experience. Thanks to our teaching team Dereca,
+*[1] My gratitude to all the students in Psych 103 for
+this experience. Thanks to our teaching team Dereca,
 Danny, Hazel, and Gabriela; my facilitation instructor,
 Danny; my TA partner, Tracy, my section, and the other
-TAs. To my fellow engineers still at Stanford: Psych 103 won't count for your
-degree, but your education is woefully incomplete without it.*
+TAs.*
+
+*[3] Critique: As with any program, there is room for
+ critique, but unlike most other programs, the Psych 103
+ professors actively seek it. While I am no longer
+ involved with it, were I to organize or do it again, I would add
+ units on ability (including health/chronic health issues) and
+ spirituality/religion. I would also put more emphasis on theoretical
+ frameworks for understanding power and privelege. I would also devote
+ time to empowering students and discussing `what's next.' I also often felt a need to choose and claim an
+ identity and to allow it to define me, when identity-based
+ understanding is quite different from the way I (at least spiritually) approach myself. I think students can learn that the world
+ views them under certain identities without feeling pressured to
+ label or box their own self.*  
+
+*[3] Disclaimer: this is based solely on my own experience with
+ Psych103. Due to the units that we chose, I was many a time part of the
+ more priveleged group. The experience of students who were in
+ marginalized groups was likely very different.*
 
 
 

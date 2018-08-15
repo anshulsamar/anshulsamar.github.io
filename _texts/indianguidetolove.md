@@ -1,15 +1,13 @@
 ---
 layout: narrative
-title: The Indian American's Guide to Love
+title: Tribute to Junot Diaz
 author: Anshul Samar
 date: 2016-09-01
 mydate: Sept 2016
 ---
 
-parody of* <a href="https://www.newyorker.com/magazine/2012/07/23/the-cheaters-guide-to-love">The Cheater’s Guide to Love</a> by Junot Diaz
-
-*the bollywood term for this is “remake of” or “wholly original work
- with no relation to”
+The Indian American's Guide to Love  
+*(parody aka remake of <a href="https://www.newyorker.com/magazine/2012/07/23/the-cheaters-guide-to-love">The Cheater’s Guide to Love</a> by Junot Diaz)*
 
 Your grandmother wants you married (you’re 28, but hey, your
  grandmother got married at 15, so age doesn’t really matter). She
@@ -70,6 +68,6 @@ But you were never that kind of kid.
 
 ---
 <p style="text-align: center;">
-<i> Fictional account from perspective of Indian American character in
-his 20s </i>
+<i> This piece was written for a writing exercise from perspective of a 28 yr old Indian
+American character, Rajat Mehta </i>
 </p>

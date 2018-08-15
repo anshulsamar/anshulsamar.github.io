@@ -6,18 +6,18 @@ date: 2017-12-02
 mydate: Dec 2017
 ---
 
-As a South Asian young man, you can go from being the loved child to an
-unmarried disgrace, literally overnight. Last year, my
+As a South Asian young man, it takes no time to go from being the loved child to an
+unmarried disgrace. Last year, my
 grandparents were visiting from India, and I
 went to Trader Joe's to get juice. When I got back, my
-grandpa looked at me and was like - "it's time to get Anshul married."
+grandpa looked at me and said: "it's time to get Anshul married."
 
 It was as simple as that. And the worst part was that Trader Joe's was out
 of my favorite juice. 
 
-With the topic of parternships, marriage, serious relationships, and
+With discussions around parternships, marriage, serious relationships, and
 arranged marriage (it's like tinder but your parents swipe with you), 
-becoming more frequent among friends, this game was born! The goal
+becoming more frequent, this game was born. The goal
 is to get your friends to think about what they are
 looking for in a partner(s). This is one version of the game, but feel
 free to modify it to be about multiple partnerships, friendships, or
