@@ -16,8 +16,8 @@ Your grandmother wants you married (you’re 28, but hey, your
  like John, Rebecca, and Isabelle, she’s OK as long as you marry an
  Indian. You know there are like half a billion of them, but still. An
  Indian girl? God damn. Maybe if you’d been dating an ethnically
- ambiguous Mexican girl, everyone would have been happy - but you’re
- not dating an ethnically ambiguous Mexican girl. This girl is from a
+ ambiguous brown girl, everyone would have been happy - but you’re
+ not dating an ethnically ambiguous brown girl. This girl is from a
  country which used to be India; in fact, the one thing your
  grandmother warned you about, that she swore she would never forgive,
  was you dating a girl from a country which used to be India. I’ll
@@ -29,8 +29,7 @@ And you did.
 Your grandmother? She’ll be very quiet for three weeks and will find a
  pundit who says that this is an astrologically a bad time. It’ll make
  sense because you’ve both gone through so much together - your
- father’s accident, your college admission, her seven year long fear
- you were gay. And because love, a grandmother’s love, is not so
+ father’s accident, your college admission, her efforts to get you wed. And because love, a grandmother’s love, is not so
  easily shed. Over a torturous 20 hour flight you travel together from
  California to Dehli and then from Dehli into Rajasthan.
  On the way home, you see a Hindustani boy with a white
@@ -64,7 +63,6 @@ old, she says.
 For some Indian kids that wouldn’t mean shit.
 
 But you were never that kind of kid.
-
 
 ---
 <p style="text-align: center;">
