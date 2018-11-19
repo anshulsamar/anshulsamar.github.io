@@ -13,10 +13,9 @@ type="text/javascript"></script>
 In the following tutorial, I detail how to use Tile2Vec with Landsat
 7 satellite imagery and apply it to predicting consumption
 expenditures in Uganda. Preliminary work yields an average \\(r^2\\)
-slightly better than the previous state of the art. Hopefully, more
-improvements to come! Results near the end of May 2018 are summarized
-in our NIPS submission <a
-href="https://arxiv.org/pdf/1805.02855.pdf">here</a>. 
+slightly better than a previous baseline established in *Nature*. Results near the end of May 2018 are summarized
+in our submission <a
+href="https://nealjean.com/papers/tile2vec.pdf">here</a>. 
 
 Many thanks to Marshall Burke, Neal Jean, and Sherrie Wang for
 their mentorship. Thanks also to Anthony Perez, David Lobell, and
@@ -366,8 +365,7 @@ edits.
 
 4. Optimization state not being saved
 
-Here are some some results from example experiments (more to
-come). Test and Validation are 50K triplets each.
+Here are some some results from example experiments. Test and Validation are 50K triplets each.
 
 ![Train, Test, Val Loss]({{ site.baseurl }}{{ "/assets/minires_32_100K_loss.png"  }}){:
  .center-image}
@@ -378,13 +376,40 @@ come). Test and Validation are 50K triplets each.
  .center-image}
 <p style="text-align: center; font-size:20px;"><sub>r^2 on LSMS data.</sub></p>
 
+Here are a variety of other experiments testing the model (mini
+version of resnet vs normal tile2vec architecture), training set size
+(100K, 250K, 500K), training set images (only LSMS images vs sampling
+from all over Uganda). These are only some experiments and do not
+cover all combinations; more need to
+be done. If you are interested in details, please let me know, happy
+to share these results/tensorboard log files. These experiments
+were done on p100 gpu, displayed via Tensorboard, ~0.7 smoothing in
+display.
 
+Comparing these is a little tricky - ideally the end product would use
+the best performing model across any epoch (which seems to be
+tilenet_512_lsms_100K at epoch 7 with .519 r2). This refers to a normal tilenet architecture
+(resnet), trained only 100K triplets extracted from lsms
+locations. Similar performance is also found in a mini resnet with
+only 32 dimensions output trained on 250K triplets sampled from
+all over Uganda. 
+
+![More Experiments]({{ site.baseurl }}{{
+ "/assets/more_experiments.png\
+"  }}){:
+ .center-image}
+ <p style="text-align: center; font-size:20px;"><sub>More Experiments</sub></p>
+
+For those interested in continuing this work, please feel free to
+reach out! I have a separate
+document of unresolved issues (had some strange performances on test) and future
+experiments to try, happy to discuss those and brainstorm.
 
 <a name="Reading"></a>
 ## **Helpful Links**
 
 Check out the Tile2Vec paper <a
-href="https://arxiv.org/pdf/1805.02855.pdf">here</a> and the original
+href="https://nealjean.com/papers/tile2vec.pdf">here</a> and the original
 work done on LSMS predictions by the lab <a
 href="http://science.sciencemag.org/content/sci/353/6301/790.full.pdf">
 here </a>(Science Paper) and <a
