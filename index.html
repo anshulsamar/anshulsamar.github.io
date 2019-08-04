@@ -4,11 +4,13 @@ title: "Anshul Samar"
 ---
 <div class="introduction">
 
-<p>September 2018: Joined Cerebras Systems in September
-  as a Member of Technical Staff. I did my undergrad
+<p>March 2019: Performed with Naatak Theater Company! Thanks to all
+  who came out to support. </p>
+
+  <p>September 2018: Joined Cerebras Systems in September
+  as a Member of Technical Staff. Graduated with my undergrad
   in Mathematics and master's in Computer
-  Science from Stanford University. Contact
-  me <a href="mailto:asamar@alumni.stanford.edu">here.</a> </p>
+  Science from Stanford University. </p>
 
 <p> May 2018: SustainLab's Tile2Vec
   <a href="https://nealjean.com/papers/tile2vec.pdf"> paper </a> accepted
@@ -22,7 +24,7 @@ title: "Anshul Samar"
 
 
 <hr>
-Projects
+Projects and Technical Writings
 <br>
 <br>
 {% assign sorted = (site.projects | sort: 'date') | reverse %}
@@ -37,6 +39,22 @@ Projects
   </p>
   {% endfor %}
 
+<br>
+Poetry and Prose
+<br>
+<br>
+{% assign sorted = (site.pp | sort: 'date') | reverse %}
+{% for item in sorted %}
+  <p style="text-align:left;">
+     <a href="{{ site.baseurl }}{{ item.url }}">
+       {{ item.title }}
+     </a>
+     <span style="float:right;">
+       {{ item.mydate }}
+     </span>
+  </p>
+  {% endfor %}
+  
 <br>
 Musings
 <br>
