@@ -94,7 +94,7 @@ it ought to be done with skill and
 awareness, so that the audience understands the impact of what is
 being said and why it is not okay. Especially in the
 South Asian community, it is critical to have conversations around suicide (and offering support and care to those like The Odd Couple’s
-Suman) , race (without stereotyping other non-white minorities such as
+Suman), race (without stereotyping other non-white minorities such as
 Manolo/Jesus), and gender identity/sexual orientation (without making
 heterosexuality and cisgenderedness the norm). For my Naatak friends
 reading this post and adapting new plays, I hope you can consider this and think deeply about the hidden impact of the script. Furthermore, Naatak’s audience will
@@ -104,4 +104,4 @@ different ways of thinking about theater.
 
 ![The entire cast and crew pointing upwards]({{ site.baseurl }}{{ "/assets/onwards.jpg"  }})
 
-Upward and onward! 
+Thanks Naatak! Upward and onward! 
