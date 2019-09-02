@@ -12,11 +12,10 @@ but this was my first time acting in a full length
 production. Grateful to our director and script adapter, for giving me an opportunity to be part of
 this play, and to such a hardworking and a wonderful cast and crew! I
 was blown away by how much work the props and set team did behind the
-scenes for this production. My biggest thanks to all of my family and
-friends who came out to support. Thanks to friends from Hindi Club,
-Stanford, Bellarmine, Cerebras, and special special thanks to Shailee
-Samar and Sharvari Bhide for their hilarious posters! It really means a
-whole lot to have so many well wishers in the audience.
+scenes for this production. Thanks to all of my family and
+friends who came out to support, including friends from Hindi Club,
+Stanford, Bellarmine, and Cerebras. Special thanks to Shailee
+Samar and Sharvari Bhide for their hilarious posters! 
 
 ![Geeta looking upset, Manolo overwhelmed, and Jesus happily drinking
  out of his glass]({{ site.baseurl }}{{ "/assets/manolo.jpg"  }})
@@ -65,54 +64,46 @@ https://www.kadlerphotography.com/Events/Naatak-The-Odd-Couple
 ![Four cast members in living room and Geeta flirting with Jesus]({{ site.baseurl }}{{ "/assets/oddcouple.jpg"  }})
 
 As exciting as it was to be part of a production, it came with its own
-challenges!  
+challenges.  
 
-Theater requires passion and is a very high risk art! 4 months of preparation for 4 shows takes many
+Theater requires passion. Rehearsals involve many
 personalities working towards a single goal and it takes an
 experienced director to be able to bring out the artist in everyone
 involved. Good theater is also proof that two artists are better than
 one. So much is required to put on a production -
-from rehearsals, to blocking, to props, to costumes, to an entire
-constructed set, and actually getting people to come and watch the
-play! It's amazing how much love and energy members of the
+from rehearsals and blocking, to props and costumes. It's humbling how much energy members of the
 Naatak community put into their productions, even if they are not
-acting or in the limelight. The humility and dedication is inspiring!
+acting or in the limelight.
+
+Being live makes theater both high risk and low impact (in terms of viewership). Our efforts culminated in four shows with a viewership of ~1200 audience members, after which there was a wild after party (there are some songs and uncles and aunties should not be dancing to) and some thank yous/goodbyes. And then - well, that was it. Even in an era of youtube-level mass distribution, theater remains ephemeral. Show after show, audience members shuffle out to the next part of their evening - ready to forget what they watched and move on. Perhaps, on some level, theater is an artist's art - the impact is not in viewership, but on the 50 year old mother who rediscovers the stage  for the first time since college, the shy office worker  who realizes that he could make a full theater laugh, and the Indian-American college student who learns that there is a world of art made by people who looked like him.
 
 I also learned how theater intersects with
 ethics. One of my roles at Stanford was facilitating conversations
-around race, gender, sexual orientation, and income along with
-mentoring younger students. In my training for this, I learned how
-much of a negative impact even well intentioned words can have. After
-talking to other students different than me, I learned how even simple
-phrases can reinforce stereotypes. Words have impact and I
-think it is important to take responsibility for everything said on
+around race, gender, sexual orientation, and income for undergraduate students. In my training for this, I learned about stereotypes and power dynamics. I learned how beliefs about certain segments of society can be perpetuated even by the most well intentioned words. To me, it is important for a cast and crew to take responsibility for everything said on
 stage - or to at least callout the stereotypes used and make the audience think deeply about their
-views of the world. 
+ views of the world. 
 
 Many dialogues in this 1985 play ought to have been changed. When I
 raised concerns over the characterization
 around suicide, my discomfort around racist material/jokes, 
-and disapproval over statements involving sexual orientation or gender identity, I was told,
-in short, that Naatak's job was to entertain, not teach, and the jokes were
-OK in context. And while, to the credit of the theater leadership, some changes were made, many were not. The belief was that if
-you have to portray a character who says something offensive, that’s OK: it is the character who is offensive, not you. I understand this
-point of view, but don't necessarily share it. If your story absolutely
+and disapproval over statements involving sexual orientation or gender identity, I was told that Naatak's job was to entertain, not teach, and the jokes were
+OK in context. And while, to the credit of the theater leadership, some changes were made, many were not. Their belief was that if
+you have to portray a character who says something offensive, that’s OK: it is the character who is offensive, not you. To me, if your story absolutely
 needs a character who says something racist/misogynistic/etc,
 it ought to be done with skill and
 awareness, so that the audience understands the impact of what is
-being said and why it is not okay. The director, playwright, and
-actors need to take responsibility for the wordview they share on
-stage. For my Naatak friends
-reading this post and adapting new plays, I hope you can consider the
-hidden impact of the script! Especially in the
+being said and why it is not okay. Especially in the
 South Asian community, it is critical to have conversations around suicide (and offering support and care to those like The Odd Couple’s
 Suman) , race (without stereotyping other non-white minorities such as
 Manolo/Jesus), and gender identity/sexual orientation (without making
-heterosexuality and cisgenderedness the norm). Naatak’s audience will
-soon grow beyond older South Asian generation to also include the
-younger South Asian community and these new patrons may call for
-different ways of thinking about theater! 
+heterosexuality and cisgenderedness the norm). For my Naatak friends
+reading this post and adapting new plays, I hope you can consider this and think deeply about the hidden impact of the script.
 
-Thanks for a great experience!
+As an aside - Naatak’s audience will
+soon grow beyond older South Asian generation to also include the
+younger South Asian community. These new patrons may call for
+different ways of thinking about theater. 
 
 ![The entire cast and crew pointing upwards]({{ site.baseurl }}{{ "/assets/onwards.jpg"  }})
+
+Upward and onward! 
