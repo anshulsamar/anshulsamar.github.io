@@ -75,7 +75,7 @@ from rehearsals and blocking, to props and costumes. It's humbling how much ener
 Naatak community put into their productions, even if they are not
 acting or in the limelight.
 
-Being live makes theater both high risk and low impact (in terms of viewership). Our efforts culminated in four shows with a viewership of ~1200 audience members, after which there was a wild after party (there are some songs and uncles and aunties should not be dancing to) and some thank yous/goodbyes. And then - well, that was it. Even in an era of youtube-level mass distribution, theater remains ephemeral. Show after show, audience members shuffle out to the next part of their evening - ready to forget what they watched and move on. Perhaps, on some level, theater is an artist's art - the impact is not in viewership, but on the 50 year old mother who rediscovers the stage  for the first time since college, the shy office worker  who realizes that he could make a full theater laugh, and the Indian-American college student who learns that there is a world of art made by people who looked like him.
+Being live makes theater both high risk and low impact (in terms of viewership). Our efforts culminated in four shows with a viewership of ~1200 audience members, after which there was a wild after party (there are some songs and uncles and aunties should not be dancing to) and some thank yous/goodbyes. And then - well, that was it. Even in an era of youtube-level mass distribution, theater remains ephemeral. Show after show, audience members shuffle out to the next part of their evening - ready to forget what they watched and move on. Perhaps, on some level, theater is an artist's art - the impact is not on the viewers, but rather the cast and crew. It's what makes community theater so special... the 50 year old mother who rediscovers the stage  for the first time since college, the shy office worker  who realizes that he could make a full theater laugh, or the Indian-American college student who learns that there is a world of art made by people who look like him.
 
 I also learned how theater intersects with
 ethics. One of my roles at Stanford was facilitating conversations
@@ -97,9 +97,7 @@ South Asian community, it is critical to have conversations around suicide (and 
 Suman) , race (without stereotyping other non-white minorities such as
 Manolo/Jesus), and gender identity/sexual orientation (without making
 heterosexuality and cisgenderedness the norm). For my Naatak friends
-reading this post and adapting new plays, I hope you can consider this and think deeply about the hidden impact of the script.
-
-As an aside - Naatak’s audience will
+reading this post and adapting new plays, I hope you can consider this and think deeply about the hidden impact of the script. Furthermore, Naatak’s audience will
 soon grow beyond older South Asian generation to also include the
 younger South Asian community. These new patrons may call for
 different ways of thinking about theater. 
