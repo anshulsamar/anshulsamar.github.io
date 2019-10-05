@@ -70,7 +70,7 @@ leader of innovation has fallen to 21st in science and 25th in math
 And yet – in our country we teach our kids the same way their
 ancestors were taught a century ago (Wallis).  In our country, 35,000
 students drop out of school every school week (Furger). Even my
-brother’s thinking about dropping out and he’s only in 4th grade. In
+cousin’s thinking about dropping out and he’s only in 4th grade. In
 our country and world, rather than think or read students Spark Note
 at the rate of 2500 hits a second (Spark Notes) and shrink entire
 epiphanies into the 140-character limit of Twitter.  The problem is
