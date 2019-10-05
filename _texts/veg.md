@@ -6,7 +6,7 @@ date: 2009-01-01
 mydate: Jan 2009
 ---
 
-Transcript of an old 2009 speech I gave on vegetarianism.
+Transcript of a speech I gave in high school on vegetarianism.
 
 What do Isaac Newton, Abraham Lincoln, Albert Einstein, and Bugs Bunny
 have in common?  It is neither their widespread fame nor their ability
