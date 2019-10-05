@@ -72,7 +72,7 @@ The Franklin Institute. "Renew - Stress on the Brain." The Franklin Institute. U
 
 Laughter Yoga International. "History Of Laughter Yoga." Laughter Yoga International. 31 Dec. 2009 <http://www.laughteryoga.org/index.php?option=com_content&view=article&id=460:history-of-laughter-yoga&catid=86:the-history&Itemid=265>. 
 
-Lehigh Valley Health Network. "Take a Deep Breath....and Relax!" Lehigh Valley Health Network. 25 Jan. 2010 <http://www.lvhn.org/healthyyou/Protecting_Your_Health/Getting_Rid_of_Stress|1037>. 
+Lehigh Valley Health Network. "Take a Deep Breath....and Relax!" Lehigh Valley Health Network. 25 Jan. 2010 <http://www.lvhn.org>. 
 
 Lemonick, Michael. "Depression: How Stress Takes Its Toll." Time 20 Jan. 2003. 29 Dec. 2009 <http://www.time.com/time/magazine/article/0,9171,1004098,00.html>. 
 
@@ -99,6 +99,7 @@ Skae, Teya. "How a Stressful State Leads to Chronic Fatigue (Part 1)." Natural N
 Stein, Joel, David Bjerklie, Alice Park, David Van Biema, Karen Ann Cullott, and Jeanne McDowell. "Just Say Om." TIME 4 Aug. 2003. 31 Dec. 2009 <http://www.time.com/time/magazine/article/0,9171,1005349,00.html>. 
 
 "Stress a major health problem in the U.S., warns APA." The Mental Health Social Worker. 29 Dec. 2009 <http://mhsw.org/press/stress-a-major-health-problem-in-the-us-warns-apa/>. 
+
 University of Maryland Medical Center. "Laughter is the Best Medicine for Your Heart." University of Maryland Medical Center. 31 Dec. 2009 <http://www.umm.edu/features/laughter.htm>. 
 
 "University Of Maryland School Of Medicine Study Shows Laughter Helps Blood Vessels Function Better." Science Daily 19 Mar. 2005. 30 Dec. 2009 <http://www.sciencedaily.com/releases/2005/03/050309111444.htm>. 
