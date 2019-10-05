@@ -5,13 +5,16 @@ author: Anshul Samar
 date: 2011-04-14
 mydate: April 2011
 ---
+
+Transcript of speech I gave in high school on our education system. 
+
 The Model T Student
+
 Athena, the Great Greek Goddess of Wisdom, was born inside her
 father’s head (ThinkQuest).  What a delivery.   A pregnant father and
 a wise-cracking brainchild trying to get out.  And baby Athena burst
 from her father’s forehead, giving big daddy Zeus the worst pregnancy
-migraine of all time (ThinkQuest).  Moral of the story? Don’t get
-pregnant if you’re a guy. But perhaps it was worth it, because with a
+migraine of all time (ThinkQuest).  But perhaps it was worth it, because with a
 spark of brilliance and a hunger for innovation, Athena came out ready
 to conquer the world.  From Hercules (Gill) to Odysseus (Kerestes),
 Newton to Einstein, Gandhi to Teresa, and Gates to Jobs, Athena
@@ -22,6 +25,7 @@ And then, we arrived. My generation: a generation of APs, SATs, and
 Facebook farming. Creativity? Out the window. So today, let’s explore
 the problems facing our generation, ask ourselves where our creativity
 has gone, and think of solutions to create inventors and leaders.
+
 We live in a struggling world, a world of tsunamis, meltdowns
 (“Japan”), revolts, deficits, and disasters. A world of 1 billion
 hungry (“Global Hunger”), 1 billion illiterate (Boaz), and 1 billion
@@ -31,6 +35,7 @@ humans will need two Earths to sustain their habits in just 40 years
 invest in oil (Blain). A world of disease in which the United States
 alone sees 1 out of every 4 people die of cancer (American Cancer
 Society).
+
 In this era of unimaginable problems, we need creativity of
 unimaginable proportions –the creativity of a generation of kids to
 tackle the problems that will devastate generations to come.  We need
@@ -42,6 +47,7 @@ As Dan Meyers, in his Ted Conference speech “Math Class Needs a
 Makeover” comments, we “expect sitcom-sized problems that wrap up in
 22 minutes, three commercial breaks and a laugh track.”  We swallow
 the problems and regurgitate the answers.
+
 Sir Ken Robinson in his speech “Bring on the Learning Revolution” says
 that school is “an industrial model of education, a manufacturing
 model.”  In this 500 billion dollar system (National Center for
@@ -53,12 +59,14 @@ discovered; we memorize chemistry formula after formula, and analyze
 history dates time after time again.  What the world is left with are
 Henry Ford’s model T students, who come in every single color as long
 as they’re bored and burned out.
+
 Studies point to a nation wide creativity disaster.  Torrance
 creativity tests, identified by Newsweek as a “gold standard in
 creativity assessment” have shown that creativity in American students
 has been on the decline (Bronson & Merryman).  Worse, the once great
 leader of innovation has fallen to 21st in science and 25th in math
 (The Board Foundation).
+
 And yet – in our country we teach our kids the same way their
 ancestors were taught a century ago (Wallis).  In our country, 35,000
 students drop out of school every school week (Furger). Even my
@@ -75,6 +83,7 @@ our own minds” (qtd. in United States History).  Where is that genius,
 that creativity… that spark of innovation? Athena, our great Greek
 goddess of wisdom has been sleeping, and we need to wake her up – by
 changing our schools, societies, and selves.
+
 To think or not to think, that is the question. We need to think and
 we must, as Hamlet would say, “take arms against a sea of troubles, /
 and by opposing end them” (Lamb et al.). In Michigan’s Farmington
@@ -94,6 +103,7 @@ with projects improving search engines, space exploration, and clean
 energy (Noguchi). Such creative challenges, project-based learning, or
 even giving extra credit for new ideas, not only brings the curriculum
 home but creates thinkers who get excited about learning more. 
+
 From science to history:  asking students how they would have founded
 America, drafted the constitution, or run the country as Washington,
 Lincoln, or Kennedy, inspires them to not only learn from history, but
@@ -108,6 +118,7 @@ becomes a scientist’s laboratory, a writer’s desk, or a leader’s
 podium, and mass-produces environments of exploring, dissecting, and
 connecting the dots, there’s nothing stopping future innovations from
 being made.  
+
 From school to society, part two of our solution in which the
 community participates in real-world, real-life, and real-time
 education. Like California’s Collins Elementary School’s parent run
@@ -119,6 +130,7 @@ organizations or parents that give micro grants to student
 micro-preneurs for even starting or thinking about something new.
 Encouragement and challenge inspires innovation.  It does after all,
 take a village to raise a child.
+
 And finally to home: part three of our solution, changing ourselves.
 Rather than wait for decades to make a difference, we need to create
 now. Like California’s Lawson Middle School environment club which
@@ -135,6 +147,7 @@ generation. We need to take risks, because the only time in our lives
 when we can devote our energy to something big and still come home,
 relaxed, to a dinner on the table and a basketball in the garage is
 now. We need to create NOW.
+
 Today’s model-T students may be manufactured and tested-out, but by
 transforming our education from memorization to innovation at school
 and at home we can tap Athena’s power.  Somewhere deep inside our
@@ -144,82 +157,109 @@ entrepreneurs. A generation to solve our monstrous problems. A
 generation that follows the ancient saying: I create, therefore I am.
 
 Works Cited
+
 American Cancer Society. Cancer Facts & Figures 2010. Atlanta:
 American Chemical Society. 2010. PDF. <
 http://www.cancer.org/acs/groups/content/@epidemiologysurveilance/
 documents/document/acspc-026238.pdf>
+
 Blain, Loz. "Four crucial resources that may run out in your
 lifetime." Gizmag. 27 Aug. 2009. 16 Jan. 2011
 <http://www.gizmag.com/four-crucial-resources-running-out/12630/>.
 The Board Foundation. "Statistics on American K-12 Public Education."
 The Board Foundation. 16 Jan. 2011
 <http://www.broadeducation.org/about/crisis_stats.html>.
+
 Boaz, David. "Illiteracy -- The Bad News and the Good." Cato
 Institute. 20 Jan. 1990. 16 Jan. 2011
 <http://www.cato.org/pub_display.php?pub_id=5551>.
+
 Bronson, Po, and Ashley Merryman. "The Creativity Crisis." Newsweek 10
 July 2010. Newsweek.com. 16 Jan. 2011
 <http://www.newsweek.com/2010/07/10/the-creativity-crisis.html>.
+
 Cassidy, Mike. "STEP alum Amanda Alonzo spearheads Lynbrook High's
 award-winning science program." The San Jose Mercury News 6
 Feb. 2010. Stanford University School of Education. 6 Feb. 2010. 23
 Mar. 2011
 <http://ed.stanford.edu/news/step-alum-amanda-alonzo-spearheads-lynbrook-high039s-award-winning-science-program>.
+
 Curtis, Diane. "Start With the Pyramid: Real-World Issues Motivate
 Students." Edutopia. 11 Jan. 2001. 16 Jan. 2011
 <http://www.edutopia.org/start-pyramid>.
+
 Damassa, Tom. "Human Consumption Pushing Ecosystems to the Brink."
+
 Earth Trends. 10 Oct. 2006. World Resources Institute. 16 Jan. 2011
 <http://earthtrends.wri.org/updates/node/96>.
+
 Furger, Roberta. "How to End the Dropout Crisis." Edutopia
 Dec.-Jan. 2008. Edutopia. 16 Jan. 2011
 <http://www.edutopia.org/student-dropout-retention-strategies>.
+
 Gill, N. S. "The Goddess Athena Helps Hercules." About.com. 20
 Jan. 2011
 <http://ancienthistory.about.com/od/athenaminervamyth/p/AthenaHercules.htm>.
+
 "Global Hunger." Bread for the World. 16 Jan. 2011
 <http://www.bread.org/hunger/global/>.
+
 GreenChipmunks' eClub. "NewsFlash."
 <http://www.greenchipmunks.com/Home/newsflash>.
+
 GreenChipmunks' eClub. "Walk-One-Week (WOW)." 16 Jan. 2011
 <http://www.greenchipmunks.com/Home/wow>.
+
 Kerestes, A. "The Role of Athena in both the Illiad and the Odyssey."
 Rich East High School. 30 Mar. 2000. 20 Jan. 2011
 <http://www.richeast.org/htwm/Greeks/athena/athena.html>.
+
 Lamb, Sidney, Terri Mategrano, and William Shakespeare. Shakespeare's
 Hamlet. Hoboken, NJ: Wiley, Inc., 2000.
+
 Meyer, Dan. "Math Class Needs a Makeover." TEDxNYED. Ted. May 2010. 16
 Jan. 2011
+
 <http://www.ted.com/talks/dan_meyer_math_curriculum_makeover.html>.
 National Center for Education Statistics. "Fast Facts." National
 Center for Education Statistics. U.S. Department of Education,
 Institute of Education Sciences. 16 Jan. 2011
 <http://nces.ed.gov/fastfacts/display.asp?id=66>.
+
 National Math and Science Initiative. "Staying Competitive." National
 Math and Science Initiative. 16 Jan. 2011
 <http://www.nationalmathandscience.org/index.php/staying-competitive/>.
+
 Noguchi, Sharon. "Lynbrook High notches first double in Intel Science
 contest." The San Jose Mercury News. Lynbrook Robotics. 28
 Jan. 2010. 23 Mar. 2011
 <http://lynbrookrobotics.com/news/david-liu-intel-science-finalist/>.
+
 Robinson, Ken. "Bring on the learning revolution!" TED2010. Ted. May
 2010. 16 Jan. 2011
 <http://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution.html>.
+
 Samar, Vipin. "Collins Clubs." Personal interview. 23 Mar. 2011.
+
 Samar, Vipin. "Your Article on "Trying to Strike a Balance"..." E-mail
 to K. Corcoran. 13 Dec. 2004.
+
 Shah, Anup. "Poverty Facts and Stats." Global Issues. 20
 Sept. 2010. 16 Jan. 2011
 <http://www.globalissues.org/article/26/poverty-facts-and-stats#src7>.
+
 Spark Notes. "A Brief History of SparkNotes." Spark Notes. Barnes and
 Nobles. 16 Jan. 2011 <http://www.sparknotes.com/about/history/>.
 "Staff & Advisory Boards." Science Buddies. 23 Mar. 2011
 <http://www.sciencebuddies.org/
 science-fair-projects/aboutus_staff.shtml>
+
 ThinkQuest. "Athena." ThinkQuest. Oracle. 20 Jan. 2011
 <http://library.thinkquest.org/J0112190/athena.htm>.
+
 United States History. "Ralph Waldo Emerson." United States
 History. 16 Jan. 2011 <http://www.u-s-history.com/pages/h3862.html>.
+
 Wallis, Claudia. "How to Bring Our Schools Out of the 20th Century."
 Time.com 10 Dec. 2006. Time. 10 Dec. 2006. 16 Jan. 2011
 <http://www.time.com/time/magazine/article/0,9171,1568480,00.html>. 
