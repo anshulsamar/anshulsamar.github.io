@@ -46,7 +46,7 @@ beef requires 2200 gallons of water – with most of the water being
 used to grow the cow feed (Robbins 367).  This means that eating a
 one-pound uses as much water as an average family of four taking a
 month of showers… or just my sister taking a month of showers (“50
-Water Facts and Conservation Tips”).  And ladies and gentlemen, that’s
+Water Facts and Conservation Tips”).  And that’s
 just for one pound -- in United States we consume meat at the colossal
 rate of 268 pounds of meat every year for every American  – or around
 12 ounces of meat a person every single day (Bureau of Census).
@@ -57,7 +57,7 @@ requires 28 lbs of corn, grain, and hay (“The Future of Food” 95;
 Wulf).  15 million children or around 11 a second die from hunger
 every year and around 800 million people are malnourished our corn and
 grain continues to be eaten up by our livestock.   These children want
-to know, what’s For Dinner?
+to know, What’s For Dinner?
 
 Meat not only clogs our environment, it also clogs our hearts.
 Cardiovascular disease, or heart disease, is the number one killer of
