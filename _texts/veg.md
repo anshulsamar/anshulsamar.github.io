@@ -13,7 +13,7 @@ have in common?  It is neither their widespread fame nor their ability
 to look at any problem in a creative way… it is rather their choice to
 become a vegetarian!
 
-It amazing how we take care of the environment, buy hybrid cars to
+It's amazing how we take care of the environment, buy hybrid cars to
 reduce air pollution, keep the faucet off while brushing, but continue
 to eat meat.  We worry about our health, workout in the gym, demand
 for nutrition labels even on our water bottles, but continue to eat
