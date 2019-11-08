@@ -10,9 +10,9 @@ The summer after my sophomore year, I was introduced to deep learning for the fi
 got to train end to end RNNs for speech recognition. This was part of
 my CURIS project in the Andrew Ng Deep Learning Lab. 
 
-Speech recogniton is an important subfeld of machine learning with
+Speech recogniton is an important subfield of machine learning with
 vast applicability to human computer interacton, telephone and audio
-transcripton, deaf assistance, and government intelligence – popular examples
+transcripton, etc – popular examples
 include Siri, Nuance, and Google Now. However, due to variance in
 speaking styles, transcribing human-human conversatons is
 challenging. Traditonal algorithms (Hidden Markov models, Gaussian
