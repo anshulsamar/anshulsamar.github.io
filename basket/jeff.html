@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript">
+    window.onload = function() {
+      function myMove(myname, callback) {
+        var elem = document.getElementById(myname);   
+        var pos = 0;
+        var id = setInterval(frame, 25);
+        function frame() {
+          if (pos == 55) {
+            clearInterval(id);
+            elem.style.display = "none"
+            callback()
+          } else {
+            pos++; 
+            elem.style.top = (pos-30) + '%'; 
+          }
+        }
+      }
+      
+      botheration_elem = document.getElementById("botheration");
+      botheration_elem.addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+              botheration_elem.blur();
+              botheration_elem.value = "";
+              botheration_elem.style.background = "rgba(255, 255, 255, 0)";
+              botheration_elem.placeholder = "";
+              document.getElementById('botherationcard').style.display = "block";
+              myMove("botherationcard", function(){
+                document.getElementById('botherationcard').style.top = "-30%";
+                botheration_elem.style.background = "rgba(255, 255, 255, .35)";
+                botheration_elem.placeholder = "Dropped! Type and press enter to drop another";
+              })
+            }
+        });
+
+      question_elem = document.getElementById("question");
+      question_elem.addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+              question_elem.blur();
+              var url = 'https://script.google.com/macros/s/AKfycbyeX6zyjhc7993vMXyspZnhmR6Ai3qwKJEySKslK-7G5ZlpjZM/exec?question=' +  encodeURIComponent(question_elem.value) + '&gratitude='
+              question_elem.value = "";
+              question_elem.style.background = "rgba(255, 255, 255, 0)";
+              question_elem.placeholder = "";
+              document.getElementById('questioncard').style.display = "block";
+              myMove("questioncard", function(){
+                document.getElementById('questioncard').style.top = "-30%";
+                question_elem.style.background = "rgba(255, 255, 255, .35)";
+                question_elem.placeholder = "Question sent. Type again to ask another";
+              })
+
+              $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: "{}",
+                success: function () {},
+                error: function (xhr, status, error) {
+                 alert("Error, send message manually to Jeff")
+                }
+              })
+            }
+        });
+
+        gratitude_elem = document.getElementById("gratitude");
+        gratitude_elem.addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+              gratitude_elem.blur();
+              var url = 'https://script.google.com/macros/s/AKfycbyeX6zyjhc7993vMXyspZnhmR6Ai3qwKJEySKslK-7G5ZlpjZM/exec?question=&gratitude=' +  encodeURIComponent(gratitude_elem.value)
+              gratitude_elem.value = "";
+              gratitude_elem.placeholder = "";
+              gratitude_elem.style.background = "rgba(220, 220, 220, 0)";
+              document.getElementById('gratitudecard').style.display = "block";
+              myMove("gratitudecard", function(){
+                document.getElementById('gratitudecard').style.top = "-30%";
+                gratitude_elem.style.background = "rgba(220, 220, 220, 0.25)";
+                gratitude_elem.placeholder = "Gratitude sent. Type again to send another";
+              })
+              $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: "{}",
+                success: function () {},
+                error: function (xhr, status, error) {
+                 alert("Error, send message manually to your teacher through Zoom")
+                }
+              })
+            }
+        });
+    
+    };
+  </script>
+  </head>
+
+  <style>
+  p.small {
+  line-height: 0.6;
+  }
+
+  p.big {
+  line-height: 1.8;
+  }
+
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  .bgimg {
+    background-image: url('background_lowres.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    display: block;
+  }
+
+  .text-container {
+    background: transparent;
+    height: 100%;
+    position: relative;
+  }
+
+  .botheration {
+    background:rgba(255, 255, 255, 0.35);
+    border-radius: 5px;
+    border: 0 none;
+    resize: none;
+    outline:none;
+    height: 15%;
+    top: 20%;
+    width: 20%;
+    right: 8%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1vw;
+    overflow: auto;
+  }
+
+  .botherationbasket {
+    position: absolute;
+    top: 35%;
+    left:65%;
+    right:0;
+    bottom:0;
+    width:20%;
+    margin:auto;
+    display:block;
+  }
+
+  .botherationcard {
+    position: absolute;
+    top: -35%;
+    left:65%;
+    right:0;
+    bottom:0;
+    width:5%;
+    margin:auto;
+    display:none;
+  }
+
+  .question {
+    background: rgba(255, 255, 255, 0.35);
+    border-radius: 5px;
+    border: 0 none;
+    resize: none;
+    outline:none;
+    height: 15%;
+    top: 20%;
+    width: 20%;
+    right: 72%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1vw;
+    overflow: auto;
+  }
+
+  .questionbasket {
+    position: absolute;
+    top: 35%;
+    left:0;
+    right:65%;
+    bottom:0;
+    width:20%;
+    margin:auto;
+    display:block;
+  }
+
+  .questioncard {
+    position: absolute;
+    top: -35%;
+    left:0;
+    right:65%;
+    bottom:0;
+    width:5%;
+    margin:auto;
+    display:none;
+  }
+
+  .gratitude {
+    background:rgba(220, 220, 220, 0.25);
+    border-radius: 5px;
+    resize: none;
+    outline:none;
+    border: 0 none;
+    height: 15%;
+    top: 20%;
+    width: 20%;
+    position: absolute;
+    right: 40%;
+    text-align: center;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1vw;
+    overflow: auto;
+  }
+
+  .gratitudebasket {
+    position: absolute;
+    top: 35%;
+    left:0%;
+    right:0%;
+    bottom:0%;
+    width:20%;
+    margin:auto;
+    display:block;
+  }
+
+  .gratitudecard {
+    position: absolute;
+    top: -35%;
+    left:0%;
+    right:0%;
+    bottom:0%;
+    width:5%;
+    margin:auto;
+    display:none;
+  }
+  
+  textarea::placeholder {
+    color: black;
+    font-weight: 500;
+  }
+
+  </style>
+
+  <body>
+
+  <div class="bgimg">
+    <div class="text-container">
+    <textarea class="botheration" id="botheration" placeholder="Type your botheration here! (Press enter to drop it, botherations won't be saved or emailed.)"></textarea>
+    <textarea class="gratitude" id="gratitude" placeholder="Type any gratitude here! (Press enter to send)"></textarea>
+    <textarea class="question" id="question" placeholder="Type your question here! (Press enter to ask)"></textarea>
+    </div>
+    <img class="botherationbasket" src="botherationbasket.png" alt="botheration basket" id="botherationbasket">
+    <img class="botherationcard" id="botherationcard" src="card5.png">
+    <img class="gratitudebasket" src="gratitudebasket.png" alt="gratitude basket" id="gratitudebasket">
+    <img class="gratitudecard" id="gratitudecard" src="card5.png">
+    <img class="questionbasket" src="questionbasket.png" alt="botheration basket" id="questionbasket">
+    <img class="questioncard" id="questioncard" src="card5.png">
+  </div>
+
+  <form id="test-form">
+      <input type="hidden" name="question" value="myquestion"/>
+  </form>
+
+  </body>
+</html>
