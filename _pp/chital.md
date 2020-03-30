@@ -340,9 +340,7 @@ the chital. He looked at the boys, first Bhanu, then Arnab.
 Rishiji turned to Arnab, “Take this deer and clean up her wounds.”
 Arnab looked furious as he walked towards the chital and muttered
 under his breath. But as he got closer, he paused. The chital looked
-at him helplessly, already having forgotten that the benefactor
-walking towards her had thrown stones just moments before. [is this
-stealing from elsewhere?] How forgiving, Bhanu thought, mother nature
+was looking at Arnab forgivingly. How kind, Bhanu thought, mother nature
 is to her own.
 
 Rishiji walked towards Bhanu, his dhoti and shawl dancing with the
@@ -371,8 +369,7 @@ thing. Arnab realized himself as he began to tend the chital’s words.”
 “Then why did you slap me?”
 
 “To teach you that the world may slap you even when you do something
-right. A pinch on cheek may sting, but it will never be as nearly as
-painful as a pinch on the soul.”
+right."
 
 “But what about dharma and Ramayana and respecting older brothers
 and-”
