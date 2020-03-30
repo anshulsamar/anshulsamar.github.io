@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript">
+    window.onload = function() {
+      function myMove(myname) {
+        var elem = document.getElementById(myname);   
+        var pos = 0;
+        var id = setInterval(frame, 25);
+        function frame() {
+          if (pos == 48) {
+            clearInterval(id);
+            elem.style.display = "none"
+          } else {
+            pos++; 
+            elem.style.top = (pos-30) + '%'; 
+          }
+        }
+      }
+      
+      document.getElementById("botheration").addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+              document.getElementById("botheration").blur();
+              document.getElementById("botheration").value = "";
+              document.getElementById("botheration").placeholder = "Dropped! Type and press enter to drop another";
+              // document.getElementById('number').textContent = (parseInt(document.getElementById('number').textContent) + 1).toString();
+              document.getElementById('botherationcard').style.display = "block";
+              myMove("botherationcard")
+              document.getElementById('botherationcard').style.top = "-30%";
+            }
+        });
+
+      document.getElementById("question").addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+              document.getElementById("question").blur();
+              var url = 'https://script.google.com/macros/s/AKfycbyeX6zyjhc7993vMXyspZnhmR6Ai3qwKJEySKslK-7G5ZlpjZM/exec?question=' +  encodeURIComponent(document.getElementById("question").value) + '&gratitude='
+              document.getElementById("question").value = "";
+              document.getElementById("question").placeholder = "Question sent. Type and press enter to ask another";
+              // document.getElementById('number').textContent = (parseInt(document.getElementById('number').textContent) + 1).toString();
+              document.getElementById('questioncard').style.display = "block";
+              myMove("questioncard")
+              document.getElementById('questioncard').style.top = "-30%";
+              $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: "{}",
+                success: function () {},
+                error: function (xhr, status, error) {
+                 alert("Error, send message manually to Jeff")
+                }
+              })
+            }
+        });
+
+        document.getElementById("gratitude").addEventListener("keyup", function(event) {
+          event.preventDefault();
+          if (event.keyCode === 13) {
+              document.getElementById("gratitude").blur();
+              var url = 'https://script.google.com/macros/s/AKfycbyeX6zyjhc7993vMXyspZnhmR6Ai3qwKJEySKslK-7G5ZlpjZM/exec?question=&gratitude=' +  encodeURIComponent(document.getElementById("gratitude").value)
+              document.getElementById("gratitude").value = "";
+              document.getElementById("gratitude").placeholder = "Gratitude sent. Type and press enter to send another";
+              // document.getElementById('number').textContent = (parseInt(document.getElementById('number').textContent) + 1).toString();
+              document.getElementById('gratitudecard').style.display = "block";
+              myMove("gratitudecard")
+              document.getElementById('gratitudecard').style.top = "-30%";
+              $.ajax({
+                url: url,
+                method: "GET",
+                dataType: "json",
+                data: "{}",
+                success: function () {},
+                error: function (xhr, status, error) {
+                 alert("Error, send message manually to your teacher through Zoom")
+                }
+              })
+            }
+        });
+    
+    };
+  </script>
+  </head>
+
+  <style>
+  p.small {
+  line-height: 0.6;
+  }
+
+  p.big {
+  line-height: 1.8;
+  }
+
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  .bgimg {
+    background-image: url('background.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    display: block;
+  }
+
+  .text-container {
+    background: transparent;
+    height: 100%;
+    position: relative;
+  }
+
+  .botheration {
+    background: transparent;
+    resize: none;
+    border: 0 none;
+    font-size: 1em;
+    outline: none;
+    height: 40%;
+    top: 20%;
+    width: 20%;
+    right: 8%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1vw;
+  }
+
+  .botherationbasket {
+    position: absolute;
+    top: 35%;
+    left:65%;
+    right:0;
+    bottom:0;
+    width:20%;
+    margin:auto;
+    display:block;
+  }
+
+  .botherationcard {
+    position: absolute;
+    top: -35%;
+    left:65%;
+    right:0;
+    bottom:0;
+    width:5%;
+    margin:auto;
+    display:none;
+  }
+
+  .question {
+    background: transparent;
+    resize: none;
+    border: 0 none;
+    font-size: 1em;
+    outline: none;
+    height: 40%;
+    top: 20%;
+    width: 20%;
+    right: 72%;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1vw;
+  }
+
+  .questionbasket {
+    position: absolute;
+    top: 35%;
+    left:0;
+    right:65%;
+    bottom:0;
+    width:20%;
+    margin:auto;
+    display:block;
+  }
+
+  .questioncard {
+    position: absolute;
+    top: -35%;
+    left:0;
+    right:65%;
+    bottom:0;
+    width:5%;
+    margin:auto;
+    display:none;
+  }
+
+  .gratitude {
+    background: transparent;
+    resize: none;
+    border: 0 none;
+    font-size: 1em;
+    outline: none;
+    height: 40%;
+    top: 20%;
+    width: 20%;
+    position: absolute;
+    right: 40%;
+    text-align: center;
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1vw;
+  }
+
+  .gratitudebasket {
+    position: absolute;
+    top: 35%;
+    left:0%;
+    right:0%;
+    bottom:0%;
+    width:20%;
+    margin:auto;
+    display:block;
+  }
+
+  .gratitudecard {
+    position: absolute;
+    top: -35%;
+    left:0%;
+    right:0%;
+    bottom:0%;
+    width:5%;
+    margin:auto;
+    display:none;
+  }
+
+  textarea::placeholder {
+    color: black;
+    font-weight: 600;
+  }
+
+  </style>
+
+  <body>
+
+  <div class="bgimg">
+    <div class="text-container">
+    <textarea class="botheration" id="botheration" placeholder="Click and type your botheration here! (Press enter to drop it, botherations won't be saved.)"></textarea>
+    <textarea class="gratitude" id="gratitude" placeholder="Click and type any gratitude here! (Press enter to send)"></textarea>
+    <textarea class="question" id="question" placeholder="Click and type your question here! (Press enter to ask)"></textarea>
+    </div>
+    <img class="botherationbasket" src="botherationbasket.png" alt="botheration basket" id="botherationbasket">
+    <img class="botherationcard" id="botherationcard" src="card5.png">
+    <img class="gratitudebasket" src="gratitudebasket.png" alt="gratitude basket" id="gratitudebasket">
+    <img class="gratitudecard" id="gratitudecard" src="card5.png">
+    <img class="questionbasket" src="questionbasket.png" alt="botheration basket" id="questionbasket">
+    <img class="questioncard" id="questioncard" src="card5.png">
+    <!-- <div class="title">
+      <h1>Botheration<br> Basket</h1>
+    </div> -->
+    <!-- <div class="bottomright">
+      <p class="small">Write freely, no botheration saved!</p>
+      <p class="small"><span id="number">0</span> botherations dropped</p>  
+    </div> -->
+  </div>
+
+  <form id="test-form">
+      <input type="hidden" name="question" value="myquestion"/>
+  </form>
+
+  </body>
+</html>
