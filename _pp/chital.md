@@ -17,7 +17,7 @@ to sit perfectly still. Usually, Arnab’s knee would pain and Bhanu’s
 leg would fall asleep. Worse, a couple flies had followed them out
 from the kitchen and had found refuge in their ears.
 
-The flies at the ashram seemed to have a remarkable knack for
+The flies at the ashram seemed to have a knack for
 distressing even the quietest monks. In fact, it was Bhanu’s
 observation that the quietest monks were often the most easily
 distressed. No matter how many layers of shawls they would cover
