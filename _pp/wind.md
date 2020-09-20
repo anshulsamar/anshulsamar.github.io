@@ -17,5 +17,6 @@ I’ll remember I was always free.
   
 ---
 
-*Inspired by Stanford's motto: Die Luft der Freiheit weht*
-*One <a href="https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=die%20luft%20der%20freiheit%20weht">translation</a> of this is: "the wind of freedom blows"*
+*Inspired by Stanford's motto: Die Luft der Freiheit weht*  
+*One <a href="https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=die%20luft%20der%20freiheit%20weht">translation</a> of this is the first line of this poem:*  
+*"The wind of freedom blows."*
