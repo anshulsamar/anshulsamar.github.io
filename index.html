@@ -4,6 +4,8 @@ title: "Anshul Samar"
 ---
 <div class="introduction">
   
+<p>Sept 2020: some new poetry and musings below</p>
+  
 <p>July 2019: Performed an original piece at Mausaki Cafe Series w/
   Kaustubh Deshpande. Check out draft  <a href="https://soundcloud.com/anshulsamar/khaali-khyaal-draft">here</a> </p>
 
@@ -22,20 +24,6 @@ title: "Anshul Samar"
 
 
 <hr>
-Projects and Technical Writings
-<br>
-<br>
-{% assign sorted = (site.projects | sort: 'date') | reverse %}
-  {% for item in sorted %}
-  <p style="text-align:left;">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-      <span style="float:right;">
-        {{ item.mydate }}
-      </span>
-  </p>
-  {% endfor %}
 
 <br>
 Poetry and Prose
@@ -69,6 +57,19 @@ Musings
   </p>
   {% endfor %}
   
-
+Projects and Technical Writings
+<br>
+<br>
+{% assign sorted = (site.projects | sort: 'date') | reverse %}
+  {% for item in sorted %}
+  <p style="text-align:left;">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+      <span style="float:right;">
+        {{ item.mydate }}
+      </span>
+  </p>
+  {% endfor %}
 
 
