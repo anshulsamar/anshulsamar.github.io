@@ -10,6 +10,10 @@ mydate: May 2018
 src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 type="text/javascript"></script>
 
+Update: May 2018: SustainLab's Tile2Vec
+  <a href="https://nealjean.com/papers/tile2vec.pdf"> paper </a> accepted
+  to AAAI Conference on Artificial Intelligence (AAAI), 2019.  
+  
 In the following tutorial, I detail how to use Tile2Vec with Landsat
 7 satellite imagery and apply it to predicting consumption
 expenditures in Uganda. Preliminary work yields an average \\(r^2\\)
