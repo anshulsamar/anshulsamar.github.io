@@ -3,7 +3,7 @@ layout: poem
 title: Die Luft der Freiheit weht
 author: Anshul Samar
 date: 2020-09-13
-mydate: September 2020
+mydate: Sept 2020
 ---
 
 The winds of freedom blow  
