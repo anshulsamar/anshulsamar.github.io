@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: Needle and string
+title: Needle and String
 author: Anshul Samar
-date: 2020-09-13
+date: 2015-11-01
 mydate: Nov 2015
 ---
 
