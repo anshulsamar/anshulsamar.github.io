@@ -20,7 +20,7 @@ about the purpose of life.
 "Follow your heart."  
 "Be yourself."  
 Thanks,
-but this is hard for me,
+but this is hard for me,  
 I say. 
 How can I be myself,  
 without first knowing who I am?  
