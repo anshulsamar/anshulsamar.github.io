@@ -19,8 +19,9 @@ and some absent minded words
 about the purpose of life.  
 "Follow your heart."  
 "Be yourself."  
-Thanks, I say,  
-but this is hard for me.   
+Thanks,
+but this is hard for me,
+I say. 
 How can I be myself,  
 without first knowing who I am?  
 
