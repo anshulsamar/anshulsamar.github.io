@@ -8,15 +8,14 @@ mydate: Oct 2020
 
 Ingredients:  
 1/2 spoon* of dhania powder.   
-Couple pieces of this thing
+Couple pieces of this thing. 
 Two nice pinches of haldi. Not little, should be nice pinches.  
-Little powdered clove.  
-Enough ghee (this is must).  
-Special masala (I have packed this for you already). Use only thoda  
-1 spoon* salt, although probably more than this. But also not too much because if you add more than this, then it will become salty.  (Thank you Richa for this tip). 
-Same amount of lal mirchi as you used for the other recipe  
+Ask neighborhood aunty for some kadi patta, woh likely kanjoos hai toh bahut kam deygi, jitney deygi utney daldena. Crush and add.     
+Enough ghee, ghee is must
+1 spoon* salt, although probably more than this (Thank you Richa for this tip). 
+Same amount of lal mirchi as you used for the other recipe.  
    
-Do this in the same way as normal tadka, except very important that nothing burns and food comes out tasty.  Make it properly.  
+Do this in the same way as normal tadka, except very important nothing burns and food comes out tasty.  Make it properly.  
    
 Enjoy.  
 
