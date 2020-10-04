@@ -10,7 +10,7 @@ Dear Older Me,
 
 1. MOST IMPORTANT PLEASE READ THIS FIRST. If you have any Chuck E. Cheese
 tokens that you haven’t used, can you please send them to me, my cubby
-is the one next to William’s.
+is the one next to Jack’s.
 
 2. Edgar and Paul came over with a list of things they don’t like about
 me such as I am bossy and I suck at layups so I should stop taking
@@ -18,7 +18,7 @@ them, but it’s only because Edgar ALWAYS hogs the ball, so don’t
 forget NOT to pass to him and that currently we are NOT talking.
 
 3. Are you a professional basketball player or an astronaut? If you are
-both please send pictures of space basketball A.S.A.P. because William
+both please send pictures of space basketball A.S.A.P. because Jack
 doesn’t believe that’s possible.
 
 4. I found a rock by Dr. Lee’s office I’m pretty sure is pure gold so
@@ -28,7 +28,7 @@ to throw it into the pool when Sumi goes swimming.
 
 5. According to Cathy’s friend Joanna’s best friend in Mrs. Lauro’s
 homeroom, Isabelle’s algebra partner says that Kat really likes
-me. Please let me know if we are married now because William and I are
+me. Please let me know if we are married now because Jack and I are
 betting his Tuesday’s string cheese on this and otherwise I owe him a
 lunchable.
 
@@ -36,7 +36,7 @@ lunchable.
 evolved by now.
 
 7. Mrs. Lee got upset at me because I put a booger on the back of my
-homework but I only did that because William was too far away. She
+homework but I only did that because Jack was too far away. She
 says I have to redo my homework so please finish it and send it back
 to me by Thursday.
 
