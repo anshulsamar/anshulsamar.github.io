@@ -8,12 +8,12 @@ mydate: Sept 2020
 
 The wind of freedom blows  
 within me.  
-This earth shakes within me.  
+The earth shakes within me.  
 Mountains fall and  
 waves break, within me.  
-And when there is nothing  
-left to take within me,  
-I’ll remember I was always free.  
+And when there is nothing left  
+to further take within me,  
+it is then that I'll be free.  
   
 ---
 
