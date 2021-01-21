@@ -163,8 +163,7 @@ he is a good man and I'm looking forward to liking him.
 P: A, you're flipping a million sided coin, where each face of the
 coin is a new girl that you are meeting for the first time and think
 that you might fall in love with. She (point to her) is one side,
-she’s another, she’s another… [Some girl stops by] grinning and points
-and every one needs a few months of dating to truly know.
+she’s another, she’s another… and every one needs a few months of dating to truly know.
 
 A: And you are flipping a 10 sided coin where every face has been
 chosen based off of their family values, education, religion, finance,
@@ -201,7 +200,5 @@ A: Oh really?
 
 P: Oh really what? No more interest in buying me coffee?
 
-A: Well, you are engaged
-
-P (smiling): That I am
+A: Well, you *are* engaged
 
