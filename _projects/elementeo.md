@@ -6,17 +6,17 @@ date: 2019-01-13
 mydate: Jan 2019
 ---
 
-In a quiet end to an exciting 13+ year journey, I sold the last
-Elementeo Chemistry Card Game on Amazon on December 27th, 2018. I still
+In a quiet end to an exciting 13+ year journey, the last
+Elementeo Chemistry Card Game sold on Amazon on December 27th, 2018. I still
 remember my parent's garage being filled with the first manufactured
 shipment of games back in 2008. When I was in middle school, the prototypes
 used to be printed at the local FedEx Kinkos and element and
 compound characters drawn by hand. I poured through endless library
 books to learn about the elements in hopes to bring them to life. With
-the help of some exceptional artists, these elements were given faces
+the help of some exceptional artists, I gave elements faces
 and personalities. Cards were printed and boxes were assembled in a
 factory and games were tested with kids. Soon, Amazon had contacted me about
-partnering with them and we were shipping games across the country.
+partnering with them and Elementeo games started shipping across the country.
 
 ![Elementeo Box]({{ site.baseurl }}{{ "/projects/elementeo/box.jpg"  }})
 
