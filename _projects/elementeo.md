@@ -6,7 +6,7 @@ date: 2019-01-13
 mydate: Jan 2019
 ---
 
-In a quiet end to an exciting 13+ year journey, we sold the last
+In a quiet end to an exciting 13+ year journey, I sold the last
 Elementeo Chemistry Card Game on Amazon on December 27th, 2018. I still
 remember my parent's garage being filled with the first manufactured
 shipment of games back in 2008. When I was in middle school, the prototypes
@@ -15,7 +15,7 @@ compound characters drawn by hand. I poured through endless library
 books to learn about the elements in hopes to bring them to life. With
 the help of some exceptional artists, these elements were given faces
 and personalities. Cards were printed and boxes were assembled in a
-factor and games were tested with kids. Soon, Amazon had contacted us about
+factory and games were tested with kids. Soon, Amazon had contacted me about
 partnering with them and we were shipping games across the country.
 
 ![Elementeo Box]({{ site.baseurl }}{{ "/projects/elementeo/box.jpg"  }})
@@ -36,7 +36,7 @@ href="http://www.superchargedscience.com/blog/top-games-that-teach-science/">rev
 on Elementeo and more on <a href="https://www.amazon.com/dp/B008MC1XDQ">Amazon</a>. Hopefully they
 haven't taken it down yet :)
 
-I spoke about how Elementeo was made in a talk <a
+I spoke about how I made Elementeo in a TEDx talk <a
 href="https://www.youtube.com/watch?v=SxLfkvl6f0I">here</a>. The app
 we launched at that event is no longer available, but this is what it
 looked like:
