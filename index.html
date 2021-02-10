@@ -5,12 +5,7 @@ title: "Anshul Samar"
 <div class="introduction">
   
   <p>Nov 2020: My <a href="https://anshulsamar.github.io/texts/medmondays/">post</a> on wellness/mental health events Graham Erwin and I have been organizing at Stanford. Hope to see some of you at our weekly Meditation Monday.</p>
-    
-  <p>Oct 2020: Completed my 200H yoga instructor certification! Post on yoga coming soon.</p>
-  
-<p>July 2019: Performed an original Hindi piece at Mausaki Cafe Series w/
-  Kaustubh Deshpande. Check out draft  <a href="https://soundcloud.com/anshulsamar/khaali-khyaal-draft">here</a>.</p>
-
+   
 <p>March 2019: Performed with Naatak Theater Company! Thanks to all
   who came out to support. </p>
 
@@ -22,6 +17,23 @@ title: "Anshul Samar"
 
 <hr>
 
+Projects and Technical Writings
+<br>
+<br>
+{% assign sorted = (site.projects | sort: 'date') | reverse %}
+  {% for item in sorted %}
+  <p style="text-align:left;">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+      <span style="float:right;">
+        {{ item.mydate }}
+      </span>
+  </p>
+  {% endfor %}
+  
+<br>
+  
 Musings
 <br>
 <br>
@@ -56,19 +68,6 @@ Poetry and Prose
   
 <br>  
   
-Projects and Technical Writings
-<br>
-<br>
-{% assign sorted = (site.projects | sort: 'date') | reverse %}
-  {% for item in sorted %}
-  <p style="text-align:left;">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-      <span style="float:right;">
-        {{ item.mydate }}
-      </span>
-  </p>
-  {% endfor %}
+
 
 
