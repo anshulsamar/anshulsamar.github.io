@@ -19,7 +19,7 @@ challenging. Traditonal algorithms (Hidden Markov models, Gaussian
 mixture models/RNNs) require an extra step of determining which window
 of speech corresponds to which English word. However, these alignments
 are not readily available leading to a complicated error prone cycle
-of alignment generaton and training. In Connectonist Temporal
+of alignment generaton and training. In Connectionist Temporal
 Classifcaton (CTC) [1], a recurrent neural network is trained to
 output characters directly from speech features, without relying on
 any additonal inputs or alignments, making it invariant to speaker-to-speaker
