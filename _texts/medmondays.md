@@ -6,7 +6,7 @@ date: 2020-11-31
 mydate: Nov 2020
 ---
 
-Early in the pandemic, I called Graham Erwin - a postdoctoral research fellow in Department of Genetics at Stanford and a good friend of mine - to brainstorm ways we could support the student, staff, and alumni community. A few weeks later, we held the very first thirty minute Meditation Monday. Our hope was to lead small guided meditations and share simple take home breathing techniques to bring calm and focus during these challenging times. We also wanted to remain open and accessible to everyone, including beginners and first year students new to meditation. 
+Last March, Graham Erwin, a postdoctoral research fellow in Department of Genetics and a good friend of mine, held our very first thirty minute Meditation Monday. Our hope was to lead small guided meditations and share simple take home breathing techniques to bring calm and focus during these challenging times. We also wanted to remain open and accessible to everyone, including beginners and first year students new to meditation. 
 
 Now, in its ninth month since launch, Meditation Monday has gone from "two friends leading a session for a few weeks" to becoming a vibrant weekly event that has continued through the summer and fall quarter. Participants drop in when they can, with at times, more than thirty participants meditating together on zoom. We're featured on one of Stanford's virtual wellbeing resource lists as well <a href="https://vaden.stanford.edu/virtualwellbeing">here</a>.
 
