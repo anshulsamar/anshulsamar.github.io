@@ -16,4 +16,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "rake", ">= 12.3.3"
+  
+  spec.add_dependency "bundler", ">= 2.1.0"
 end
