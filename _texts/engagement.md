@@ -15,190 +15,151 @@ commences is the conversation below!
 Thank you, Simar, for the inspiration!
 
 -----
+An Engagement to an Idea. 
 
-A: You’re getting married. I didn't even know you were seeing
-someone.
+June 18th version is the longer version. 
 
-P: It's arranged. Not like arranged arranged, but we met a few times
-and our families like each other. We did the roka before quarter
-started.
+Arjun: You’re getting married. I didn’t even know you were seeing someone.  
 
-A: What's his name?
+Pallavi: It’s arranged. Not like arranged arranged, but you know, date for a bit, and get married.  
 
-P: It doesn’t matter
+Arjun:  What’s his name?  
 
-A: It doesn’t matter??!
+Pallavi: It doesn’t matter.  
 
-P: Ok, Prataap Ogley.
+Arjun:  It doesn’t matter?  
 
-A: Who names their son Prataap Ogley?
+Pallavi: Ok, Prataap Ogley.  
 
-P: I dont know marathi people they have heavy names wadekar wakharkar
-bhide ogley walley. It's like when their grandfather was deciding
-their family name  he had a big modak in his mouth.
+Arjun:  Prataap Ogley? Prataap Ogley sounds like someone who is going to borrow money from you and not give it back.   
 
-A: What does Prataap look like?
+Pallavi: Arjun!  
 
-P: He kind of looks like a Modak.
+Arjun: Dude. Not going to lie, I think he wants it.   
 
-A: Do you like him?
+Pallavi: That’s not why he’s marrying me.   
 
-P: I mean, he's chill, nice…
+Arjun: He wants it.   
 
-A: P…
+Pallavi: That’s a terrible thing to say, Arjun.  
 
-P: I mean even if I did like him my feelings for him are going to
-change, These days I’ve been feeling like other things matter more
-than feelings. Like commitment.
+Arjun looks at Pallavi with eyebrows raised.   
 
-A: Oh my God
+Pallavi: He’s NOT marrying me for a greencard.   
 
-P: I’m pretty sure in DDLJ2, Simran Is going to like file for divorce,
-because she realizes Raj is actually annoying in real life and their
-views pretty much do not match on anything. And thanks to the divorce
-stigma she's now going to spend the rest of her life feeding the
-neighborhood pigeons.
+Arjun: Look. My dad always tells me, that even if I can’t find a girl, I can always have a greencard wedding. That’s why he and my mom wanted to have me here and not India.  
 
-A: You've bought into arranged marriage. How can you buy into arranged
-marriage.
+Pallavi: that's ridiculous.   
 
-P: I mean I Still love ddlj, but sometimes I wonder if that sort of
-story belongs in the movies… my mom has a point. (A looks
-incredulous). Feelings change.
+Arjun: What does Prataap look like?  
 
-A: Yeah, from a crush into friendship into love.
+Pallavi: Kind of like a modak.   
 
-P: And then out of friendship and out of love, don't forget out of
-love.
+Arjun:  Do you like him?  
 
-A: Feelings matter.
+Pallavi: I mean, he’s pretty nice.  
 
-P: What changes doesn't matter.
+Arjun:  Pallavi…. 
 
-A: No, what matters doesn't change.
+Pallavi: These days, I’ve been feeling like other things matter more than feelings.   
 
-They laugh.
+Arjun:  Oh my god.  
 
-P: That's literally what I just said. look, I'm changing and he's
-changing okay maybe when he's 30 and I'm 30 we may want completely
-different things from life. Like maybe I will watch some saas bahu
-soap and he wants to watch finance documentary. Maybe I want five kids
-and he wants seven.
+Pallavi: I’m pretty sure in Dil Waaley Dulania Ley Jayengey, after Simran’s dad agrees to let Simran marry this rando guitar player she met in Europe, he also sends her the name of a divorce lawyer just in case things don’t work out. At the beginning, it’s chill. And then Simran realizes Rahul is really really annoying and just spends all day feeding pigeons. Feelings change.   
 
-A: Hold up, between the two of you the minimum number of kids you’ll
-have is five?!?!
+Arjun:  Yeah, from a crush into love.  
 
-P: Okay, that's a bad example. But personalities change. Marriages are
-built on family and culture not people.
+Pallavi: And then out of love, don’t forget out of love.  
 
-A:  You sound like my mom. What about all of the “my hearts not into
-arranged marriage stuff” you were telling me about last year?
+Arjun:  Feelings matter.  
 
-P: That was different, my heart’s fine, it doesn’t want my parents to
-be upset and this doesn't sound so bad.
+Pallavi: What changes doesn’t matter.  
 
-A: P, it doesn't matter what your parents think, it's your life.
+Arjun:  No, what matters doesn’t change.  
 
-P: Wow. Did you memorize that line from like the "how to destroy
-relationships and be independent" handbook? Look, I'm not marrying
-Prataap okay I marrying his way of life. Im marrying 3 kids, 3
-generations, and 30 members of his extended family
+They laugh.  
 
-A girl walks by and says hi to A. He puts hand in hair
+Pallavi: That’s literally what I just said. Look, I’m changing and he’s changing, maybe I’ll want five kids and he’ll wants seven.  
 
-P: The other upside of being engaged is unlike you I don’t have to
-spend 30 minutes every day making my hair because I feel like I’m
-going to bump into snow white at coupa cafe.
+Arjun:  Hold up, between the two of you the minimum number of kids you’ll have is five?  
 
-A: She doesn’t have to be white
+Pallavi: Okay, that’s a bad example. But, marriages are built on family and culture. Feelings change all the time. And it’ll make my parents happy - I mean, you aren’t getting pressure from the fam?  
 
-They laugh.
+Arjun: I mean I am, but I don’t care. There is a point of time where every South Asian boy goes from being loved, to being unmarried. And the switch happens instantaneously. For me, it was the weekend my grandparents were visiting from India and I went to Trader Joe's to get juice. I think my grandpa saw me drive for the first time and so when I got back, my grandpa looked at me and said: "it's time to get Arjun married."  
 
-A: And it does not take me 30 minutes every day to make my hair.
+Pallavi laughs. 
 
-P: You use more product on your hair than I do.
+Arjun: It was as simple as that. The worst part was that Trader Joe's was out of my favorite juice.   
 
-A: Look. I think you’re missing out. You should be having serious fomo
-right now. Like what about tinder, what about a night filled with
-passion?
+A girl walks by and says hi to Arjun. He puts his hand through his hair.  
 
-P: Arranged marriages are kind of like Tinder.
+Pallavi: The other upside of being engaged is I don’t have to spend 30 minutes every day making my hair because I feel like I’m going to bump into Snow White at Coupa Cafe.  
 
-A: Except your mom is swiping for you
+Arjun:  She doesn’t have to be white.  
 
-A: And group conversations include you, the person you matched with,
-your mom, their mom, your uncle, their uncle,
+They laugh.  
 
-P: ...your pundit, their pundit. Their backup pundit.
+Arjun:  Ok, but what about dating apps, what about a night filled with passion?  
 
-P: But besides that it’s kind of the same. The only difference is that
-I use words like religion and caste to filter. And you just tinder
-search for people 25 miles around Stanford.
+Pallavi: Arranged marriages are kind of like Tinder.  
 
-A: Those are two very different things, I'm not close minded about
-that stuff
+Arjun:  Except your mom is swiping for you.  
 
-P: And yet seeing your dating history I would bet three guest meal
-swipes you are going to end up with a rich educated white girl from
-Stanford. Feels a lot like a caste to me.
+Pallavi: Wait - what’s wrong with my mom swiping for me?   
 
-A: I don't filter on anything. I just want her to be kind, and
-compassionate and excited about her life.
+Arjun: And group conversations are you, them, your mom, their mom, your uncle, their uncle,  
 
-P: I look for those things too.
+Pallavi: …your pundit, their pundit. Their backup pundit. Ok, agreed. But besides that it is kind of the same. The only difference is that I use categories like religion to filter. And you just tinder search for people 25 miles around Stanford.  
 
-A: I want to feel alive when I'm with her. Like how it is right now,
-so light, so fun. How do you know there's not going to be someone who
-you will love to spend time with and have a great life happily ever
-after? Don't you want life to be an adventure or a surprise?
+Arjun:  Those are two very different things, I’m not close minded about that stuff.  
 
-P: He memorized that Ed Sheeran song to propose to me at a family
-dinner. That was surprising.
+Pallavi: And yet seeing your dating history I would bet you are going to end up with a rich educated white girl from Stanford. Feels a lot like a caste to me.  
 
-pause.
+Arjun:  I don’t filter on anything.  
 
-P: Look I don't know. Some days I don’t want to but other days I know
-he is a good man and I'm looking forward to liking him.
+Pallavi: You don’t, but the algorithm does. And it’s probably learning to suggest matches that you’ll like enough to swipe, but not enough to stay with. You are ok being married by an algorithm?  
 
-P: A, you're flipping a million sided coin, where each face of the
-coin is a new girl that you are meeting for the first time and think
-that you might fall in love with. She (point to her) is one side,
-she’s another, she’s another… and every one needs a few months of dating to truly know.
+Arjun: You’re ok being married by your mom? 
 
-A: And you are flipping a 10 sided coin where every face has been
-chosen based off of their family values, education, religion, finance,
-and even horoscope, who you have no idea will make you happy. Why are
-you so… why do you think of life so -
+Pallavi: Yes. I know my mom. And look, arranged marriages are about finding someone you think you could marry, dating them for a bit, and calling it a day.   
 
-P: Maybe he’s not the greatest, but at least it's a super thought
-through decision. With lots of variables considered.
+Arjun: Calling it a day? Dude, I want to feel alive - like how it is right now, so light, so fun. How do you know there’s not going to be someone who you will fall in love with - don’t you want life to be a surprise?  
 
-A: My heart is my only variable. That's why I bought you the coffee
+Pallavi: He memorized that Gully Boy rap to propose to me at a family dinner. That was a surprise.  
 
-P:  A...We’ve been through this...
+Arjun: Whoa! My boy Ogley raps?   
 
-A: only someone whose heart is saying otherwise spends this much time
-on a Saturday afternoon trying to convince a guy that she doesn't need
-to listen to her heart. Look, I don’t think you are into this Pratap
-guy
+Pallavi: It was highly uncoordinated, but look, he is a good man and I’m looking forward to loving him soon. I’m not just marrying Prataap okay? I’m marrying his way of life. You’re flipping a million sided coin, where each face of the coin is a new girl that you are meeting for the first time and think that you might fall in love with. She is one side, she’s another, she’s another… and every one needs a few months of dating to truly know.  
 
-P (smiling): Im engaged, A.
+Arjun:  And you’re flipping a 10 sided coin but every face has been chosen based off of their family values, education, religion, finance, and horoscope, who you have no idea will make you happy. Why are you so… why do you think so -  
 
-A: No you are not, your engaged to an idea.
+Pallavi: We both want the same thing. We're just optimizing it differently. All of my variables are proxies for a good marriage. All of your variables lead to a nice night.  
 
-P: That’s all arranged marriage is, It’s not what it used to be, at
-least not for my family. It’s two people married to an idea... who
-eventually fall in love.
+Arjun:  My heart is my only variable. That’s why I bought you the coffee.  
 
-A: Or not. My version sounds more fun.
+Pallavi: Arjun… We’ve been through this…. 
 
-Phone buzzes.
+Arjun: Only someone whose heart is saying otherwise spends this much time on a Saturday afternoon trying to convince a guy that she doesn’t need to listen to her heart. Look, I don’t think you are into this Pratap guy.  
 
-P: Ashi’s calling us we’re late. Oh and Renee will be there
+Pallavi: I’m engaged, Arjun.  
 
-A: Oh really?
+Arjun:  No you are not, you’re engaged to an idea.  
 
-P: Oh really what? No more interest in buying me coffee?
+Pallavi: That’s all arranged marriage is, it’s not what it used to be. It’s two good people who get married to an idea, who get married to commitment… and eventually fall in love.  
 
-A: Well, you *are* engaged
+Arjun:  And then get dumped for the greencard!  
+
+Pallavi: Arjun.  
+
+Arjun: My version sounds more fun.  
+
+Phone buzzes.  
+
+Pallavi: Ashi’s calling us, we’re late. Oh and Renee will be there.  
+
+Arjun:  Oh really?  
+
+Pallavi: Oh really what? Already over buying me coffee?  
+
+Arjun: Laughs/both get up Let’s go.  
 
