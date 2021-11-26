@@ -23,23 +23,6 @@ title: "Anshul Samar"
 
 <hr>
 
-Projects and Technical Writings
-<br>
-<br>
-{% assign sorted = (site.projects | sort: 'date') | reverse %}
-  {% for item in sorted %}
-  <p style="text-align:left;">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-      <span style="float:right;">
-        {{ item.mydate }}
-      </span>
-  </p>
-  {% endfor %}
-  
-<br>
-  
 Musings
 <br>
 <br>
@@ -74,6 +57,19 @@ Poetry and Prose
   
 <br>  
   
-
-
+Projects and Technical Writings
+<br>
+<br>
+{% assign sorted = (site.projects | sort: 'date') | reverse %}
+  {% for item in sorted %}
+  <p style="text-align:left;">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+      <span style="float:right;">
+        {{ item.mydate }}
+      </span>
+  </p>
+  {% endfor %}
+  
 
