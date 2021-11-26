@@ -2,8 +2,8 @@
 layout: narrative
 title: Pappu and Friends
 author: Anshul Samar
-date: 2019-03-01
-mydate: Mar 2019
+date: 2021-11-26
+mydate: Nov 2021
 ---
 
 ![Pappu and Friends Poster]({{ site.baseurl }}{{ "/assets/poster.png" }})
