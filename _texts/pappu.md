@@ -8,10 +8,10 @@ mydate: Nov 2021
 
 ![Pappu and Friends Poster]({{ site.baseurl }}{{ "/assets/poster.png" }})
 
-My friends and I put on a sketch comedy show - more than 350 attendees across 3 shows, 7 new sketches and scripts, and an incredible cast & crew of 13 (many of whom were making their debut performance)!
+My friends and I put on a sketch comedy production - 3 live shows, 350 attendees, 7 new sketches and scripts, and an incredible cast & crew of 13 (many of whom were making their debut performance)!
 
-Trailer: https://www.youtube.com/watch?v=X8vmFAMaR3A  
-Show 3 Recording: https://youtu.be/TadUrRo5iH0  
+Trailer:  <a href="https://www.youtube.com/watch?v=X8vmFAMaR3A">here</a>  
+Show 3 Recording: <a href="https://youtu.be/TadUrRo5iH0">here</a>
 
 Reviews:
 
