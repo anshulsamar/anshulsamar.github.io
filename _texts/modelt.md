@@ -11,9 +11,9 @@ Transcript of speech I gave in high school on our education system.
 The Model T Student
 
 Athena, the Great Greek Goddess of Wisdom, was born inside her
-father’s head (ThinkQuest).  What a delivery.   A pregnant father and
+father’s head (ThinkQuest).  What a delivery.   A pregnant Zeus and
 a wise-cracking brainchild trying to get out.  And baby Athena burst
-from her father’s forehead, giving big daddy Zeus the worst pregnancy
+from her father’s forehead, giving Zeus the worst pregnancy
 migraine of all time (ThinkQuest).  But perhaps it was worth it, because with a
 spark of brilliance and a hunger for innovation, Athena came out ready
 to conquer the world.  From Hercules (Gill) to Odysseus (Kerestes),
