@@ -43,7 +43,7 @@ Reviews:
 
 "Hilarious!!!!"  
 
-“What an incredible effort to bring together such nuanced portrayal of being born and raised Indian and person of colour in USA. The humour lens is so important to navigate and explore such contexts… and all in such a light manner without loosing sensitivity and sensibility. They have one more show, and I hope you catch it”. 
+“Congratulations Anshul Samar, and the team for this absolutely brilliant production.. What an incredible effort to bring together such nuanced portrayal of being born and raised Indian and person of colour in USA. The humour lens is so important to navigate and explore such contexts… and all in such a light manner without loosing sensitivity and sensibility. They have one more show, and I hope you catch it”. 
 
 “I was really impressed by the production quality of the show. In addition to the attention to detail in the scripts and acting, the transitions and the fact that the show was built for zoom was awesome!”  
 
