@@ -1,18 +1,15 @@
-# Built with Jekyll 3.2.0
-# Theme/Blog from minicomp.github.io/ed
+# Built with Jekyll 3.6.0
 
 # Setup
 title:               Anshul Samar
 tagline:             'my blog'
 description:         'Anshul Samar: Projects and Musings'
-url:                 ''
 baseurl:             ''
-comments:            false
-# Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+color-scheme:
 
+# Permalinks
 permalink: pretty
 permalink: /:title/
 
@@ -23,11 +20,11 @@ encoding: utf-8
 collections:
   texts:
     output: true
-  projects:            
+  projects:
     output: true
-  pp:            
+  pp:
     output: true
-  technical:                            
+  technical:
     output: true
 
 # Markdown specs
@@ -46,8 +43,19 @@ kramdown:
 exclude:
   - optional
   - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
 
 # Theme
-theme: "ed."
+# (Used for local or custom-server deployments)
+# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
+# See https://jekyllrb.com/docs/themes/
+# theme: "ed."
 
-
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+remote_theme: minicomp/ed
