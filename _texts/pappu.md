@@ -8,10 +8,24 @@ mydate: Nov 2021
 
 ![Pappu and Friends Poster]({{ site.baseurl }}{{ "/assets/poster.png" }})
 
-My friends and I put on a sketch comedy production - 3 live shows, 350 attendees, 7 new sketches and scripts, and an incredible cast & crew of 13 (many of whom were making their debut performance)!
+My friends and I put on a sketch comedy production - 3 live shows, 350 attendees, 7 new sketches and scripts, and an incredible cast & crew of 13 (many of whom made their debut performance)!
 
 Trailer:  <a href="https://www.youtube.com/watch?v=X8vmFAMaR3A">here</a>  
 Show 3 Recording: <a href="https://youtu.be/TadUrRo5iH0">here</a>
+
+Sketches:
+- In Pappu the Superhero, two writers pitch a Hollywood executive a new idea for a South Asian Superhero. 
+- In Draupadi Goes to Couples Counseling, Princess Draupadi marries not one but five Pandava princes and then takes them all to couples counseling. 
+- In Whose Wedding Did I Dance At? a boss at a finance company has trouble telling his South Asian employees apart. 
+- In Butter Thief, a principal threatens to expel a lovable student who has been stealing a lot of butter. 
+- In Dude, You Ate Brijesh?! three best friends realize that somehow, one of them, ate Brijesh.
+- (Two surprise sketches - you'll have to watch to find out!)
+
+My parents moved to California more than 30 years ago and while I grew up here, Indian culture has always played a big role in my life. It wasn't until my final year of college, when I went to watch the play A Brimful of Asha, did I see the first generation Indian immigrant experience on stage for the first time. I loved the mainstream books and shows I grew up with, but watching that play felt like a lightbulb moment. “Oh!” I thought. “This is what art feels like when it is written about you!”
+
+Summer 2021, I started writing a series of short 5-10 minute scripts. Rather than talk directly about the Indian American experience, these scripts used the lens of Indian culture, satire, and a little bit of absurdity, to examine diverse situations - from representation in media to communication issues in the workplace to re-imaginations of old stories from mythology. While I had never written for theater before and most of my friends hadn’t done much acting, we decided we’d come together and put on a small show, if for no other reason than: why not?
+
+Special thanks (alphabetical order) to Andrea Ansale, Bellarmine, CalAA, Dan Krutz, Gabriela Nagle Alverio, Graham Erwin, Jeremy Lum, Julia Tang, Krishnan Srinivasan, Pari Mathur, Meenakshi Srinivasan, Mike Baratta, Monica Chitkara, Mukundan Thangavelu, Naatak, Nitisha Baronia, Rita Bhatia, Rohith Jayaraman, Ryosuke Kobayashi, Samar Family, Steven Hong, Sukanya Chakrabarti, Surabhi Lodha, Stanford, The Art of Living, Wadekar Family, Young Jean Lee, and Yujin Nam. Also thankful to a variety of artistic platforms and tools that allowed us to produce this show virtually including: Zoom, Eventbrite, Canva, iMovie, Logic Pro, and Google Docs. 
 
 Reviews:
 
