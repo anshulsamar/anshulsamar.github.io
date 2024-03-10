@@ -77,3 +77,14 @@ Gifted Children, Lyceum, TEDx San Jose, and many others for hosting us
 Ginormous Industries, Deborah Saez, Webgrity, and Cartamundi USA: the best artists
 and designers and manufacturers I could have asked for.
 15. My teachers
+
+    A few more fun pictures:
+
+    Screenshots from the app!
+
+    ![Elementeo Box]({{ site.baseurl }}{{ "/projects/elementeo/app.png" }})
+
+    From Maker Faire! (Thanks whoever took the photo!)
+    
+    ![Maker Faire]({{ site.baseurl }}{{ "/projects/elementeo/makerfaire.jpeg" }})
+    
