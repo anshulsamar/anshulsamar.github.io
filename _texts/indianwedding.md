@@ -70,10 +70,3 @@ festivities and don’t forget to dress nicely -
 they’ll want you in the pictures.
 
 ===
-
-
-(Note, the weddings that I caricature here are more extravagant North
-Indian weddings. It's suprising - and perhaps saddening - the amount
-of money poured into these events due to social pressures and
-expectations by families who perhaps do not have the luxury to
-spend. This deserves a different post, but just a note to the reader!). 
